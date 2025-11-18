@@ -1,0 +1,509 @@
+file,class,method,ATFD,ATLD,LAA,FDP
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyStatement.java,com.zaxxer.hikari.pool.ProxyStatement,"checkException/1[java.sql.SQLException]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyStatement.java,com.zaxxer.hikari.pool.ProxyStatement,"close/0[]",0.0,3.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyStatement.java,com.zaxxer.hikari.pool.ProxyStatement,"execute/1[java.lang.String]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyStatement.java,com.zaxxer.hikari.pool.ProxyStatement,"execute/2[java.lang.String, int]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyStatement.java,com.zaxxer.hikari.pool.ProxyStatement,"execute/2[java.lang.String, int[]]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyStatement.java,com.zaxxer.hikari.pool.ProxyStatement,"execute/2[java.lang.String, java.lang.String[]]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyStatement.java,com.zaxxer.hikari.pool.ProxyStatement,"executeBatch/0[]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyStatement.java,com.zaxxer.hikari.pool.ProxyStatement,"executeLargeBatch/0[]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyStatement.java,com.zaxxer.hikari.pool.ProxyStatement,"executeLargeUpdate/1[java.lang.String]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyStatement.java,com.zaxxer.hikari.pool.ProxyStatement,"executeLargeUpdate/2[java.lang.String, int]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyStatement.java,com.zaxxer.hikari.pool.ProxyStatement,"executeLargeUpdate/2[java.lang.String, int[]]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyStatement.java,com.zaxxer.hikari.pool.ProxyStatement,"executeLargeUpdate/2[java.lang.String, java.lang.String[]]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyStatement.java,com.zaxxer.hikari.pool.ProxyStatement,"executeQuery/1[java.lang.String]",1.0,1.0,0.5,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyStatement.java,com.zaxxer.hikari.pool.ProxyStatement,"executeUpdate/1[java.lang.String]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyStatement.java,com.zaxxer.hikari.pool.ProxyStatement,"executeUpdate/2[java.lang.String, int]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyStatement.java,com.zaxxer.hikari.pool.ProxyStatement,"executeUpdate/2[java.lang.String, int[]]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyStatement.java,com.zaxxer.hikari.pool.ProxyStatement,"executeUpdate/2[java.lang.String, java.lang.String[]]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyStatement.java,com.zaxxer.hikari.pool.ProxyStatement,"getConnection/0[]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyStatement.java,com.zaxxer.hikari.pool.ProxyStatement,"getGeneratedKeys/0[]",3.0,4.0,0.5714286,3.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyStatement.java,com.zaxxer.hikari.pool.ProxyStatement,"getResultSet/0[]",3.0,5.0,0.625,3.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyStatement.java,com.zaxxer.hikari.pool.ProxyStatement,"isWrapperFor/1[java.lang.Class]",0.0,2.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyStatement.java,com.zaxxer.hikari.pool.ProxyStatement,"toString/0[]",2.0,0.0,0.0,2.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyStatement.java,com.zaxxer.hikari.pool.ProxyStatement,"unwrap/1[java.lang.Class]",0.0,3.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\metrics\micrometer\MicrometerMetricsTracker.java,com.zaxxer.hikari.metrics.micrometer.MicrometerMetricsTracker,"close/0[]",0.0,10.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\metrics\micrometer\MicrometerMetricsTracker.java,com.zaxxer.hikari.metrics.micrometer.MicrometerMetricsTracker,"recordConnectionAcquiredNanos/1[long]",1.0,0.0,0.0,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\metrics\micrometer\MicrometerMetricsTracker.java,com.zaxxer.hikari.metrics.micrometer.MicrometerMetricsTracker,"recordConnectionCreatedMillis/1[long]",1.0,0.0,0.0,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\metrics\micrometer\MicrometerMetricsTracker.java,com.zaxxer.hikari.metrics.micrometer.MicrometerMetricsTracker,"recordConnectionTimeout/0[]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\metrics\micrometer\MicrometerMetricsTracker.java,com.zaxxer.hikari.metrics.micrometer.MicrometerMetricsTracker,"recordConnectionUsageMillis/1[long]",1.0,0.0,0.0,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\PoolBase.java,com.zaxxer.hikari.pool.PoolBase,"checkDefaultIsolation/1[java.sql.Connection]",4.0,5.0,0.5555556,3.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\PoolBase.java,com.zaxxer.hikari.pool.PoolBase,"checkDriverSupport/1[java.sql.Connection]",0.0,2.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\PoolBase.java,com.zaxxer.hikari.pool.PoolBase,"checkValidationSupport/1[java.sql.Connection]",2.0,4.0,0.6666667,2.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\PoolBase.java,com.zaxxer.hikari.pool.PoolBase,"createNetworkTimeoutExecutor/3[javax.sql.DataSource, java.lang.String, java.lang.String]",5.0,3.0,0.375,5.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\PoolBase.java,com.zaxxer.hikari.pool.PoolBase,"executeSql/3[java.sql.Connection, java.lang.String, boolean]",0.0,2.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\PoolBase.java,com.zaxxer.hikari.pool.PoolBase,"getAndSetNetworkTimeout/2[java.sql.Connection, long]",3.0,14.0,0.8235294,2.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\PoolBase.java,com.zaxxer.hikari.pool.PoolBase,"getCredentials/0[]",4.0,2.0,0.33333334,2.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\PoolBase.java,com.zaxxer.hikari.pool.PoolBase,"getLastConnectionFailure/0[]",1.0,0.0,0.0,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\PoolBase.java,com.zaxxer.hikari.pool.PoolBase,"getLoginTimeout/0[]",1.0,1.0,0.5,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\PoolBase.java,com.zaxxer.hikari.pool.PoolBase,"getUnwrappedDataSource/0[]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\PoolBase.java,com.zaxxer.hikari.pool.PoolBase,"handleMBeans/2[com.zaxxer.hikari.pool.HikariPool, boolean]",2.0,8.0,0.8,2.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\PoolBase.java,com.zaxxer.hikari.pool.PoolBase,"initializeDataSource/0[]",10.0,3.0,0.23076923,4.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\PoolBase.java,com.zaxxer.hikari.pool.PoolBase,"isConnectionDead/1[java.sql.Connection]",3.0,12.0,0.8,3.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\PoolBase.java,com.zaxxer.hikari.pool.PoolBase,"newConnection/1[boolean]",10.0,7.0,0.4117647,5.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\PoolBase.java,com.zaxxer.hikari.pool.PoolBase,"newPoolEntry/1[boolean]",0.0,2.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\PoolBase.java,com.zaxxer.hikari.pool.PoolBase,"quietlyCloseConnection/2[java.sql.Connection, java.lang.String]",0.0,3.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\PoolBase.java,com.zaxxer.hikari.pool.PoolBase,"recycle/1[com.zaxxer.hikari.pool.PoolEntry]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\PoolBase.java,com.zaxxer.hikari.pool.PoolBase,"resetConnectionState/3[java.sql.Connection, com.zaxxer.hikari.pool.ProxyConnection, int]",23.0,14.0,0.3783784,2.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\PoolBase.java,com.zaxxer.hikari.pool.PoolBase,"setLoginTimeout/1[javax.sql.DataSource]",3.0,4.0,0.5714286,3.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\PoolBase.java,com.zaxxer.hikari.pool.PoolBase,"setNetworkTimeout/2[java.sql.Connection, long]",1.0,3.0,0.75,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\PoolBase.java,com.zaxxer.hikari.pool.PoolBase,"setQueryTimeout/2[java.sql.Statement, int]",2.0,9.0,0.8181818,2.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\PoolBase.java,com.zaxxer.hikari.pool.PoolBase,"setupConnection/1[java.sql.Connection]",7.0,20.0,0.7407407,2.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\PoolBase.java,com.zaxxer.hikari.pool.PoolBase,"shutdownNetworkTimeoutExecutor/0[]",0.0,3.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\PoolBase.java,com.zaxxer.hikari.pool.PoolBase,"stringFromResetBits/1[int]",1.0,1.0,0.5,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\PoolBase.java,com.zaxxer.hikari.pool.PoolBase,"toString/0[]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\JavassistProxyFactory.java,com.zaxxer.hikari.util.JavassistProxyFactory,"generateProxyClass/3[java.lang.Class, java.lang.String, java.lang.String]",15.0,2.0,0.11764706,6.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\JavassistProxyFactory.java,com.zaxxer.hikari.util.JavassistProxyFactory,"getAllInterfaces/1[java.lang.Class]",4.0,2.0,0.33333334,2.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\JavassistProxyFactory.java,com.zaxxer.hikari.util.JavassistProxyFactory,"isDefaultMethod/2[java.lang.Class, CtMethod]",3.0,0.0,0.0,2.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\JavassistProxyFactory.java,com.zaxxer.hikari.util.JavassistProxyFactory,"isThrowsSqlException/1[CtMethod]",1.0,0.0,0.0,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\JavassistProxyFactory.java,com.zaxxer.hikari.util.JavassistProxyFactory,"main/1[java.lang.String[]]",16.0,4.0,0.2,9.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\JavassistProxyFactory.java,com.zaxxer.hikari.util.JavassistProxyFactory,"modifyProxyFactory/0[]",3.0,1.0,0.25,3.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\JavassistProxyFactory.java,com.zaxxer.hikari.util.JavassistProxyFactory,"toJavaClass/1[CtClass]",3.0,0.0,0.0,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\JavassistProxyFactory.java,com.zaxxer.hikari.util.JavassistProxyFactory,"toJavaClass/1[java.lang.String]",9.0,0.0,0.0,9.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyFactory.java,com.zaxxer.hikari.pool.ProxyFactory,"getProxyCallableStatement/2[com.zaxxer.hikari.pool.ProxyConnection, java.sql.CallableStatement]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyFactory.java,com.zaxxer.hikari.pool.ProxyFactory,"getProxyConnection/6[com.zaxxer.hikari.pool.PoolEntry, java.sql.Connection, com.zaxxer.hikari.util.FastList, com.zaxxer.hikari.pool.ProxyLeakTask, boolean, boolean]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyFactory.java,com.zaxxer.hikari.pool.ProxyFactory,"getProxyDatabaseMetaData/2[com.zaxxer.hikari.pool.ProxyConnection, java.sql.DatabaseMetaData]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyFactory.java,com.zaxxer.hikari.pool.ProxyFactory,"getProxyPreparedStatement/2[com.zaxxer.hikari.pool.ProxyConnection, java.sql.PreparedStatement]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyFactory.java,com.zaxxer.hikari.pool.ProxyFactory,"getProxyResultSet/3[com.zaxxer.hikari.pool.ProxyConnection, com.zaxxer.hikari.pool.ProxyStatement, java.sql.ResultSet]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyFactory.java,com.zaxxer.hikari.pool.ProxyFactory,"getProxyStatement/2[com.zaxxer.hikari.pool.ProxyConnection, java.sql.Statement]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariJNDIFactory.java,com.zaxxer.hikari.HikariJNDIFactory,"createDataSource/2[java.util.Properties, javax.naming.Context]",1.0,0.0,0.0,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariJNDIFactory.java,com.zaxxer.hikari.HikariJNDIFactory,"getObjectInstance/4[java.lang.Object, javax.naming.Name, javax.naming.Context, java.util.Hashtable]",7.0,0.0,0.0,5.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariJNDIFactory.java,com.zaxxer.hikari.HikariJNDIFactory,"lookupJndiDataSource/3[java.util.Properties, javax.naming.Context, java.lang.String]",1.0,0.0,0.0,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\metrics\dropwizard\Dropwizard5MetricsTracker.java,com.zaxxer.hikari.metrics.dropwizard.Dropwizard5MetricsTracker,"close/0[]",20.0,10.0,0.33333334,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\metrics\dropwizard\Dropwizard5MetricsTracker.java,com.zaxxer.hikari.metrics.dropwizard.Dropwizard5MetricsTracker,"getConnectionAcquisitionTimer/0[]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\metrics\dropwizard\Dropwizard5MetricsTracker.java,com.zaxxer.hikari.metrics.dropwizard.Dropwizard5MetricsTracker,"getConnectionCreationHistogram/0[]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\metrics\dropwizard\Dropwizard5MetricsTracker.java,com.zaxxer.hikari.metrics.dropwizard.Dropwizard5MetricsTracker,"getConnectionDurationHistogram/0[]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\metrics\dropwizard\Dropwizard5MetricsTracker.java,com.zaxxer.hikari.metrics.dropwizard.Dropwizard5MetricsTracker,"recordConnectionAcquiredNanos/1[long]",1.0,0.0,0.0,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\metrics\dropwizard\Dropwizard5MetricsTracker.java,com.zaxxer.hikari.metrics.dropwizard.Dropwizard5MetricsTracker,"recordConnectionCreatedMillis/1[long]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\metrics\dropwizard\Dropwizard5MetricsTracker.java,com.zaxxer.hikari.metrics.dropwizard.Dropwizard5MetricsTracker,"recordConnectionTimeout/0[]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\metrics\dropwizard\Dropwizard5MetricsTracker.java,com.zaxxer.hikari.metrics.dropwizard.Dropwizard5MetricsTracker,"recordConnectionUsageMillis/1[long]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\PoolBase.java,com.zaxxer.hikari.pool.PoolBase$MetricsTrackerDelegate,"close/0[]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\PoolBase.java,com.zaxxer.hikari.pool.PoolBase$MetricsTrackerDelegate,"recordBorrowStats/2[com.zaxxer.hikari.pool.PoolEntry, long]",1.0,0.0,0.0,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\PoolBase.java,com.zaxxer.hikari.pool.PoolBase$MetricsTrackerDelegate,"recordBorrowTimeoutStats/1[long]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\PoolBase.java,com.zaxxer.hikari.pool.PoolBase$MetricsTrackerDelegate,"recordConnectionCreated/1[long]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\PoolBase.java,com.zaxxer.hikari.pool.PoolBase$MetricsTrackerDelegate,"recordConnectionTimeout/0[]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\PoolBase.java,com.zaxxer.hikari.pool.PoolBase$MetricsTrackerDelegate,"recordConnectionUsage/1[com.zaxxer.hikari.pool.PoolEntry]",1.0,0.0,0.0,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\hibernate\HikariConfigurationUtil.java,com.zaxxer.hikari.hibernate.HikariConfigurationUtil,"copyProperty/4[java.lang.String, java.util.Map, java.lang.String, java.util.Properties]",2.0,0.0,0.0,2.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\hibernate\HikariConfigurationUtil.java,com.zaxxer.hikari.hibernate.HikariConfigurationUtil,"loadConfiguration/1[java.util.Map]",8.0,1.0,0.11111111,3.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyLeakTaskFactory.java,com.zaxxer.hikari.pool.ProxyLeakTaskFactory,"schedule/1[com.zaxxer.hikari.pool.PoolEntry]",1.0,1.0,0.5,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyLeakTaskFactory.java,com.zaxxer.hikari.pool.ProxyLeakTaskFactory,"scheduleNewTask/1[com.zaxxer.hikari.pool.PoolEntry]",0.0,2.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyLeakTaskFactory.java,com.zaxxer.hikari.pool.ProxyLeakTaskFactory,"updateLeakDetectionThreshold/1[long]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\UtilityElf.java,com.zaxxer.hikari.util.UtilityElf,"attemptFromContextLoader/1[java.lang.String]",2.0,0.0,0.0,2.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\UtilityElf.java,com.zaxxer.hikari.util.UtilityElf,"createInstance/2[java.lang.String, java.lang.Class]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\UtilityElf.java,com.zaxxer.hikari.util.UtilityElf,"createInstance/3[java.lang.String, java.lang.Class, java.lang.Object[]]",8.0,0.0,0.0,4.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\UtilityElf.java,com.zaxxer.hikari.util.UtilityElf,"createThreadPoolExecutor/4[int, java.lang.String, java.util.concurrent.ThreadFactory, java.util.concurrent.RejectedExecutionHandler]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\UtilityElf.java,com.zaxxer.hikari.util.UtilityElf,"createThreadPoolExecutor/4[java.util.concurrent.BlockingQueue, java.lang.String, java.util.concurrent.ThreadFactory, java.util.concurrent.RejectedExecutionHandler]",1.0,0.0,0.0,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\UtilityElf.java,com.zaxxer.hikari.util.UtilityElf,"getNullIfEmpty/1[java.lang.String]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\UtilityElf.java,com.zaxxer.hikari.util.UtilityElf,"getTransactionIsolation/1[java.lang.String]",4.0,0.0,0.0,2.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\UtilityElf.java,com.zaxxer.hikari.util.UtilityElf,"maskPasswordInJdbcUrl/1[java.lang.String]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\UtilityElf.java,com.zaxxer.hikari.util.UtilityElf,"quietlySleep/1[long]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\UtilityElf.java,com.zaxxer.hikari.util.UtilityElf,"safeIsAssignableFrom/2[java.lang.Object, java.lang.String]",1.0,0.0,0.0,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\metrics\dropwizard\CodaHaleMetricsTracker.java,com.zaxxer.hikari.metrics.dropwizard.CodaHaleMetricsTracker,"close/0[]",20.0,10.0,0.33333334,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\metrics\dropwizard\CodaHaleMetricsTracker.java,com.zaxxer.hikari.metrics.dropwizard.CodaHaleMetricsTracker,"getConnectionAcquisitionTimer/0[]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\metrics\dropwizard\CodaHaleMetricsTracker.java,com.zaxxer.hikari.metrics.dropwizard.CodaHaleMetricsTracker,"getConnectionCreationHistogram/0[]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\metrics\dropwizard\CodaHaleMetricsTracker.java,com.zaxxer.hikari.metrics.dropwizard.CodaHaleMetricsTracker,"getConnectionDurationHistogram/0[]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\metrics\dropwizard\CodaHaleMetricsTracker.java,com.zaxxer.hikari.metrics.dropwizard.CodaHaleMetricsTracker,"recordConnectionAcquiredNanos/1[long]",1.0,0.0,0.0,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\metrics\dropwizard\CodaHaleMetricsTracker.java,com.zaxxer.hikari.metrics.dropwizard.CodaHaleMetricsTracker,"recordConnectionCreatedMillis/1[long]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\metrics\dropwizard\CodaHaleMetricsTracker.java,com.zaxxer.hikari.metrics.dropwizard.CodaHaleMetricsTracker,"recordConnectionTimeout/0[]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\metrics\dropwizard\CodaHaleMetricsTracker.java,com.zaxxer.hikari.metrics.dropwizard.CodaHaleMetricsTracker,"recordConnectionUsageMillis/1[long]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\ConcurrentBag.java,com.zaxxer.hikari.util.ConcurrentBag,"add/1[T]",3.0,1.0,0.25,2.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\ConcurrentBag.java,com.zaxxer.hikari.util.ConcurrentBag,"borrow/2[long, java.util.concurrent.TimeUnit]",9.0,2.0,0.18181819,4.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\ConcurrentBag.java,com.zaxxer.hikari.util.ConcurrentBag,"close/0[]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\ConcurrentBag.java,com.zaxxer.hikari.util.ConcurrentBag,"dumpState/0[]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\ConcurrentBag.java,com.zaxxer.hikari.util.ConcurrentBag,"getCount/1[int]",1.0,1.0,0.5,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\ConcurrentBag.java,com.zaxxer.hikari.util.ConcurrentBag,"getStateCounts/0[]",2.0,1.0,0.33333334,2.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\ConcurrentBag.java,com.zaxxer.hikari.util.ConcurrentBag,"getWaitingThreadCount/0[]",1.0,0.0,0.0,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\ConcurrentBag.java,com.zaxxer.hikari.util.ConcurrentBag,"remove/1[T]",5.0,2.0,0.2857143,2.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\ConcurrentBag.java,com.zaxxer.hikari.util.ConcurrentBag,"requite/1[T]",7.0,1.0,0.125,3.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\ConcurrentBag.java,com.zaxxer.hikari.util.ConcurrentBag,"reserve/1[T]",2.0,0.0,0.0,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\ConcurrentBag.java,com.zaxxer.hikari.util.ConcurrentBag,"size/0[]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\ConcurrentBag.java,com.zaxxer.hikari.util.ConcurrentBag,"unreserve/1[T]",6.0,0.0,0.0,2.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\ConcurrentBag.java,com.zaxxer.hikari.util.ConcurrentBag,"useWeakThreadLocals/0[]",5.0,0.0,0.0,5.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\ConcurrentBag.java,com.zaxxer.hikari.util.ConcurrentBag,"values/0[]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\ConcurrentBag.java,com.zaxxer.hikari.util.ConcurrentBag,"values/1[int]",1.0,0.0,0.0,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\metrics\prometheus\HikariCPCollector.java,com.zaxxer.hikari.metrics.prometheus.HikariCPCollector,"add/2[java.lang.String, com.zaxxer.hikari.metrics.PoolStats]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\metrics\prometheus\HikariCPCollector.java,com.zaxxer.hikari.metrics.prometheus.HikariCPCollector,"collect/0[]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\metrics\prometheus\HikariCPCollector.java,com.zaxxer.hikari.metrics.prometheus.HikariCPCollector,"createGauge/3[java.lang.String, java.lang.String, java.util.function.Function]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\metrics\prometheus\HikariCPCollector.java,com.zaxxer.hikari.metrics.prometheus.HikariCPCollector,"remove/1[java.lang.String]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\PoolBase.java,com.zaxxer.hikari.pool.PoolBase$SynchronousExecutor,"execute/1[java.lang.Runnable]",2.0,0.0,0.0,2.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\metrics\dropwizard\CodahaleHealthChecker.java,com.zaxxer.hikari.metrics.dropwizard.CodahaleHealthChecker$Connection99Percent,"check/0[]",1.0,2.0,0.6666667,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\metrics\dropwizard\Dropwizard5MetricsTrackerFactory.java,com.zaxxer.hikari.metrics.dropwizard.Dropwizard5MetricsTrackerFactory,"create/2[java.lang.String, com.zaxxer.hikari.metrics.PoolStats]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\metrics\dropwizard\Dropwizard5MetricsTrackerFactory.java,com.zaxxer.hikari.metrics.dropwizard.Dropwizard5MetricsTrackerFactory,"getRegistry/0[]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\DriverDataSource.java,com.zaxxer.hikari.util.DriverDataSource,"getConnection/0[]",0.0,2.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\DriverDataSource.java,com.zaxxer.hikari.util.DriverDataSource,"getConnection/2[java.lang.String, java.lang.String]",0.0,3.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\DriverDataSource.java,com.zaxxer.hikari.util.DriverDataSource,"getLogWriter/0[]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\DriverDataSource.java,com.zaxxer.hikari.util.DriverDataSource,"getLoginTimeout/0[]",1.0,0.0,0.0,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\DriverDataSource.java,com.zaxxer.hikari.util.DriverDataSource,"getParentLogger/0[]",1.0,0.0,0.0,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\DriverDataSource.java,com.zaxxer.hikari.util.DriverDataSource,"isWrapperFor/1[java.lang.Class]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\DriverDataSource.java,com.zaxxer.hikari.util.DriverDataSource,"setLogWriter/1[java.io.PrintWriter]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\DriverDataSource.java,com.zaxxer.hikari.util.DriverDataSource,"setLoginTimeout/1[int]",1.0,0.0,0.0,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\DriverDataSource.java,com.zaxxer.hikari.util.DriverDataSource,"unwrap/1[java.lang.Class]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\hibernate\HikariConnectionProvider.java,com.zaxxer.hikari.hibernate.HikariConnectionProvider,"closeConnection/1[java.sql.Connection]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\hibernate\HikariConnectionProvider.java,com.zaxxer.hikari.hibernate.HikariConnectionProvider,"configure/1[java.util.Map]",0.0,3.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\hibernate\HikariConnectionProvider.java,com.zaxxer.hikari.hibernate.HikariConnectionProvider,"getConnection/0[]",1.0,1.0,0.5,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\hibernate\HikariConnectionProvider.java,com.zaxxer.hikari.hibernate.HikariConnectionProvider,"isUnwrappableAs/1[java.lang.Class]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\hibernate\HikariConnectionProvider.java,com.zaxxer.hikari.hibernate.HikariConnectionProvider,"stop/0[]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\hibernate\HikariConnectionProvider.java,com.zaxxer.hikari.hibernate.HikariConnectionProvider,"supportsAggressiveRelease/0[]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\hibernate\HikariConnectionProvider.java,com.zaxxer.hikari.hibernate.HikariConnectionProvider,"unwrap/1[java.lang.Class]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\metrics\PoolStats.java,com.zaxxer.hikari.metrics.PoolStats,"getActiveConnections/0[]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\metrics\PoolStats.java,com.zaxxer.hikari.metrics.PoolStats,"getIdleConnections/0[]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\metrics\PoolStats.java,com.zaxxer.hikari.metrics.PoolStats,"getMaxConnections/0[]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\metrics\PoolStats.java,com.zaxxer.hikari.metrics.PoolStats,"getMinConnections/0[]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\metrics\PoolStats.java,com.zaxxer.hikari.metrics.PoolStats,"getPendingThreads/0[]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\metrics\PoolStats.java,com.zaxxer.hikari.metrics.PoolStats,"getTotalConnections/0[]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\metrics\PoolStats.java,com.zaxxer.hikari.metrics.PoolStats,"shouldLoad/0[]",1.0,1.0,0.5,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\metrics\PoolStats.java,com.zaxxer.hikari.metrics.PoolStats,"update/0[]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\FastList.java,com.zaxxer.hikari.util.FastList,"add/2[int, T]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\FastList.java,com.zaxxer.hikari.util.FastList,"add/1[T]",2.0,7.0,0.7777778,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\FastList.java,com.zaxxer.hikari.util.FastList,"addAll/2[int, java.util.Collection]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\FastList.java,com.zaxxer.hikari.util.FastList,"addAll/1[java.util.Collection]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\FastList.java,com.zaxxer.hikari.util.FastList,"clear/0[]",0.0,3.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\FastList.java,com.zaxxer.hikari.util.FastList,"clone/0[]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\FastList.java,com.zaxxer.hikari.util.FastList,"contains/1[java.lang.Object]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\FastList.java,com.zaxxer.hikari.util.FastList,"containsAll/1[java.util.Collection]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\FastList.java,com.zaxxer.hikari.util.FastList,"forEach/1[java.util.function.Consumer]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\FastList.java,com.zaxxer.hikari.util.FastList,"get/1[int]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\FastList.java,com.zaxxer.hikari.util.FastList,"indexOf/1[java.lang.Object]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\FastList.java,com.zaxxer.hikari.util.FastList,"isEmpty/0[]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\FastList.java,com.zaxxer.hikari.util.FastList,"iterator/0[]",3.0,3.0,0.5,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\FastList.java,com.zaxxer.hikari.util.FastList,"lastIndexOf/1[java.lang.Object]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\FastList.java,com.zaxxer.hikari.util.FastList,"listIterator/0[]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\FastList.java,com.zaxxer.hikari.util.FastList,"listIterator/1[int]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\FastList.java,com.zaxxer.hikari.util.FastList,"remove/1[int]",0.0,7.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\FastList.java,com.zaxxer.hikari.util.FastList,"remove/1[java.lang.Object]",0.0,7.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\FastList.java,com.zaxxer.hikari.util.FastList,"removeAll/1[java.util.Collection]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\FastList.java,com.zaxxer.hikari.util.FastList,"removeIf/1[java.util.function.Predicate]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\FastList.java,com.zaxxer.hikari.util.FastList,"removeLast/0[]",0.0,4.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\FastList.java,com.zaxxer.hikari.util.FastList,"replaceAll/1[java.util.function.UnaryOperator]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\FastList.java,com.zaxxer.hikari.util.FastList,"retainAll/1[java.util.Collection]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\FastList.java,com.zaxxer.hikari.util.FastList,"set/2[int, T]",0.0,2.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\FastList.java,com.zaxxer.hikari.util.FastList,"size/0[]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\FastList.java,com.zaxxer.hikari.util.FastList,"sort/1[java.util.Comparator]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\FastList.java,com.zaxxer.hikari.util.FastList,"spliterator/0[]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\FastList.java,com.zaxxer.hikari.util.FastList,"subList/2[int, int]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\FastList.java,com.zaxxer.hikari.util.FastList,"toArray/0[]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\FastList.java,com.zaxxer.hikari.util.FastList,"toArray/1[E[]]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"addDataSourceProperty/2[java.lang.String, java.lang.Object]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"addHealthCheckProperty/2[java.lang.String, java.lang.String]",1.0,0.0,0.0,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"checkIfSealed/0[]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"copyStateTo/1[com.zaxxer.hikari.HikariConfig]",12.0,1.0,0.07692308,4.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"generatePoolName/0[]",3.0,1.0,0.25,2.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"getCatalog/0[]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"getConnectionInitSql/0[]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"getConnectionTestQuery/0[]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"getConnectionTimeout/0[]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"getCredentials/0[]",1.0,0.0,0.0,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"getCredentialsProvider/0[]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"getCredentialsProviderClassName/0[]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"getDataSource/0[]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"getDataSourceClassName/0[]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"getDataSourceJNDI/0[]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"getDataSourceProperties/0[]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"getDriverClassName/0[]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"getExceptionOverride/0[]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"getExceptionOverrideClassName/0[]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"getHealthCheckProperties/0[]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"getHealthCheckRegistry/0[]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"getIdleTimeout/0[]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"getInitializationFailTimeout/0[]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"getJdbcUrl/0[]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"getKeepaliveTime/0[]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"getLeakDetectionThreshold/0[]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"getMaxLifetime/0[]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"getMaximumPoolSize/0[]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"getMetricRegistry/0[]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"getMetricsTrackerFactory/0[]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"getMinimumIdle/0[]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"getObjectOrPerformJndiLookup/1[java.lang.Object]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"getPassword/0[]",2.0,0.0,0.0,2.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"getPoolName/0[]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"getScheduledExecutor/0[]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"getSchema/0[]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"getThreadFactory/0[]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"getTransactionIsolation/0[]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"getUsername/0[]",2.0,0.0,0.0,2.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"getValidationTimeout/0[]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"isAllowPoolSuspension/0[]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"isAutoCommit/0[]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"isIsolateInternalQueries/0[]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"isReadOnly/0[]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"isRegisterMbeans/0[]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"loadProperties/1[java.lang.String]",1.0,0.0,0.0,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"logConfiguration/0[]",4.0,5.0,0.5555556,3.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"openPropertiesInputStream/1[java.lang.String]",5.0,0.0,0.0,3.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"seal/0[]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"setAllowPoolSuspension/1[boolean]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"setAutoCommit/1[boolean]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"setCatalog/1[java.lang.String]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"setConnectionInitSql/1[java.lang.String]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"setConnectionTestQuery/1[java.lang.String]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"setConnectionTimeout/1[long]",1.0,4.0,0.8,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"setCredentials/1[com.zaxxer.hikari.util.Credentials]",1.0,0.0,0.0,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"setCredentialsProvider/1[com.zaxxer.hikari.HikariCredentialsProvider]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"setCredentialsProviderClassName/1[java.lang.String]",1.0,2.0,0.6666667,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"setDataSource/1[javax.sql.DataSource]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"setDataSourceClassName/1[java.lang.String]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"setDataSourceJNDI/1[java.lang.String]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"setDataSourceProperties/1[java.util.Properties]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"setDriverClassName/1[java.lang.String]",1.0,1.0,0.5,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"setExceptionOverride/1[com.zaxxer.hikari.SQLExceptionOverride]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"setExceptionOverrideClassName/1[java.lang.String]",1.0,2.0,0.6666667,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"setHealthCheckProperties/1[java.util.Properties]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"setHealthCheckRegistry/1[java.lang.Object]",0.0,2.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"setIdleTimeout/1[long]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"setInitializationFailTimeout/1[long]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"setIsolateInternalQueries/1[boolean]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"setJdbcUrl/1[java.lang.String]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"setKeepaliveTime/1[long]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"setLeakDetectionThreshold/1[long]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"setMaxLifetime/1[long]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"setMaximumPoolSize/1[int]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"setMetricRegistry/1[java.lang.Object]",0.0,3.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"setMetricsTrackerFactory/1[com.zaxxer.hikari.metrics.MetricsTrackerFactory]",0.0,2.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"setMinimumIdle/1[int]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"setPassword/1[java.lang.String]",1.0,0.0,0.0,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"setPoolName/1[java.lang.String]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"setReadOnly/1[boolean]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"setRegisterMbeans/1[boolean]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"setScheduledExecutor/1[java.util.concurrent.ScheduledExecutorService]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"setSchema/1[java.lang.String]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"setThreadFactory/1[java.util.concurrent.ThreadFactory]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"setTransactionIsolation/1[java.lang.String]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"setUsername/1[java.lang.String]",1.0,0.0,0.0,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"setValidationTimeout/1[long]",0.0,3.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"validate/0[]",8.0,33.0,0.80487806,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariConfig.java,com.zaxxer.hikari.HikariConfig,"validateNumerics/0[]",0.0,64.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\HikariPool.java,com.zaxxer.hikari.pool.HikariPool$KeepaliveTask,"run/0[]",5.0,3.0,0.375,4.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\metrics\prometheus\PrometheusMetricsTrackerFactory.java,com.zaxxer.hikari.metrics.prometheus.PrometheusMetricsTrackerFactory,"create/2[java.lang.String, com.zaxxer.hikari.metrics.PoolStats]",0.0,4.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\metrics\prometheus\PrometheusMetricsTrackerFactory.java,com.zaxxer.hikari.metrics.prometheus.PrometheusMetricsTrackerFactory,"registerCollector/2[io.prometheus.client.Collector, io.prometheus.client.CollectorRegistry]",1.0,0.0,0.0,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\HikariPool.java,com.zaxxer.hikari.pool.HikariPool$1,"update/0[]",6.0,6.0,0.5,2.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\HikariPool.java,com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator,"call/0[]",4.0,3.0,0.42857143,3.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\HikariPool.java,com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator,"shouldContinueCreating/0[]",8.0,0.0,0.0,3.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyLeakTask.java,com.zaxxer.hikari.pool.ProxyLeakTask$1,"cancel/0[]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyLeakTask.java,com.zaxxer.hikari.pool.ProxyLeakTask$1,"run/0[]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyLeakTask.java,com.zaxxer.hikari.pool.ProxyLeakTask$1,"schedule/2[java.util.concurrent.ScheduledExecutorService, long]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\FastList.java,com.zaxxer.hikari.util.FastList$1,"hasNext/0[]",1.0,1.0,0.5,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\FastList.java,com.zaxxer.hikari.util.FastList$1,"next/0[]",2.0,2.0,0.5,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\SuspendResumeLock.java,com.zaxxer.hikari.util.SuspendResumeLock$1,"acquire/0[]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\SuspendResumeLock.java,com.zaxxer.hikari.util.SuspendResumeLock$1,"release/0[]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\SuspendResumeLock.java,com.zaxxer.hikari.util.SuspendResumeLock$1,"resume/0[]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\SuspendResumeLock.java,com.zaxxer.hikari.util.SuspendResumeLock$1,"suspend/0[]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\PoolEntry.java,com.zaxxer.hikari.pool.PoolEntry,"close/0[]",0.0,10.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\PoolEntry.java,com.zaxxer.hikari.pool.PoolEntry,"compareAndSet/2[int, int]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\PoolEntry.java,com.zaxxer.hikari.pool.PoolEntry,"createProxyConnection/1[com.zaxxer.hikari.pool.ProxyLeakTask]",1.0,4.0,0.8,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\PoolEntry.java,com.zaxxer.hikari.pool.PoolEntry,"evict/1[java.lang.String]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\PoolEntry.java,com.zaxxer.hikari.pool.PoolEntry,"getMillisSinceBorrowed/0[]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\PoolEntry.java,com.zaxxer.hikari.pool.PoolEntry,"getPoolBase/0[]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\PoolEntry.java,com.zaxxer.hikari.pool.PoolEntry,"getPoolName/0[]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\PoolEntry.java,com.zaxxer.hikari.pool.PoolEntry,"getState/0[]",1.0,0.0,0.0,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\PoolEntry.java,com.zaxxer.hikari.pool.PoolEntry,"isMarkedEvicted/0[]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\PoolEntry.java,com.zaxxer.hikari.pool.PoolEntry,"markEvicted/0[]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\PoolEntry.java,com.zaxxer.hikari.pool.PoolEntry,"recycle/0[]",0.0,2.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\PoolEntry.java,com.zaxxer.hikari.pool.PoolEntry,"resetConnectionState/2[com.zaxxer.hikari.pool.ProxyConnection, int]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\PoolEntry.java,com.zaxxer.hikari.pool.PoolEntry,"setFutureEol/1[java.util.concurrent.ScheduledFuture]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\PoolEntry.java,com.zaxxer.hikari.pool.PoolEntry,"setKeepalive/1[java.util.concurrent.ScheduledFuture]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\PoolEntry.java,com.zaxxer.hikari.pool.PoolEntry,"setState/1[int]",1.0,0.0,0.0,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\PoolEntry.java,com.zaxxer.hikari.pool.PoolEntry,"stateToString/0[]",4.0,1.0,0.2,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\PoolEntry.java,com.zaxxer.hikari.pool.PoolEntry,"toString/0[]",0.0,2.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\HikariPool.java,com.zaxxer.hikari.pool.HikariPool$HouseKeeper,"run/0[]",20.0,6.0,0.23076923,6.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\HikariPool.java,com.zaxxer.hikari.pool.HikariPool$MaxLifetimeTask,"run/0[]",1.0,1.0,0.5,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\PropertyElf.java,com.zaxxer.hikari.util.PropertyElf,"capitalizedPropertyName/1[java.lang.String]",1.0,0.0,0.0,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\PropertyElf.java,com.zaxxer.hikari.util.PropertyElf,"copyProperties/1[java.util.Properties]",1.0,0.0,0.0,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\PropertyElf.java,com.zaxxer.hikari.util.PropertyElf,"getProperty/2[java.lang.String, java.lang.Object]",4.0,0.0,0.0,2.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\PropertyElf.java,com.zaxxer.hikari.util.PropertyElf,"getPropertyNames/1[java.lang.Class]",5.0,0.0,0.0,3.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\PropertyElf.java,com.zaxxer.hikari.util.PropertyElf,"parseDuration/1[java.lang.String]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\PropertyElf.java,com.zaxxer.hikari.util.PropertyElf,"parseIntArray/1[java.lang.String]",2.0,0.0,0.0,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\PropertyElf.java,com.zaxxer.hikari.util.PropertyElf,"parseStringArray/1[java.lang.String]",1.0,2.0,0.6666667,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\PropertyElf.java,com.zaxxer.hikari.util.PropertyElf,"propertyNameFromGetterName/1[java.lang.String]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\PropertyElf.java,com.zaxxer.hikari.util.PropertyElf,"setProperty/4[java.lang.Object, java.lang.String, java.lang.Object, java.util.List]",21.0,1.0,0.045454547,11.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\PropertyElf.java,com.zaxxer.hikari.util.PropertyElf,"setTargetFromProperties/2[java.lang.Object, java.util.Properties]",2.0,1.0,0.33333334,2.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\metrics\dropwizard\CodahaleMetricsTrackerFactory.java,com.zaxxer.hikari.metrics.dropwizard.CodahaleMetricsTrackerFactory,"create/2[java.lang.String, com.zaxxer.hikari.metrics.PoolStats]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\metrics\dropwizard\CodahaleMetricsTrackerFactory.java,com.zaxxer.hikari.metrics.dropwizard.CodahaleMetricsTrackerFactory,"getRegistry/0[]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariDataSource.java,com.zaxxer.hikari.HikariDataSource,"close/0[]",4.0,1.0,0.2,2.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariDataSource.java,com.zaxxer.hikari.HikariDataSource,"evictConnection/1[java.sql.Connection]",2.0,1.0,0.33333334,2.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariDataSource.java,com.zaxxer.hikari.HikariDataSource,"getConnection/0[]",6.0,4.0,0.4,3.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariDataSource.java,com.zaxxer.hikari.HikariDataSource,"getConnection/2[java.lang.String, java.lang.String]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariDataSource.java,com.zaxxer.hikari.HikariDataSource,"getHikariConfigMXBean/0[]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariDataSource.java,com.zaxxer.hikari.HikariDataSource,"getHikariPoolMXBean/0[]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariDataSource.java,com.zaxxer.hikari.HikariDataSource,"getLogWriter/0[]",2.0,1.0,0.33333334,2.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariDataSource.java,com.zaxxer.hikari.HikariDataSource,"getLoginTimeout/0[]",2.0,1.0,0.33333334,2.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariDataSource.java,com.zaxxer.hikari.HikariDataSource,"getParentLogger/0[]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariDataSource.java,com.zaxxer.hikari.HikariDataSource,"isClosed/0[]",1.0,0.0,0.0,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariDataSource.java,com.zaxxer.hikari.HikariDataSource,"isRunning/0[]",2.0,1.0,0.33333334,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariDataSource.java,com.zaxxer.hikari.HikariDataSource,"isWrapperFor/1[java.lang.Class]",1.0,1.0,0.5,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariDataSource.java,com.zaxxer.hikari.HikariDataSource,"setHealthCheckRegistry/1[java.lang.Object]",4.0,1.0,0.2,2.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariDataSource.java,com.zaxxer.hikari.HikariDataSource,"setLogWriter/1[java.io.PrintWriter]",2.0,1.0,0.33333334,2.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariDataSource.java,com.zaxxer.hikari.HikariDataSource,"setLoginTimeout/1[int]",2.0,1.0,0.33333334,2.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariDataSource.java,com.zaxxer.hikari.HikariDataSource,"setMetricRegistry/1[java.lang.Object]",4.0,1.0,0.2,2.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariDataSource.java,com.zaxxer.hikari.HikariDataSource,"setMetricsTrackerFactory/1[com.zaxxer.hikari.metrics.MetricsTrackerFactory]",4.0,1.0,0.2,2.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariDataSource.java,com.zaxxer.hikari.HikariDataSource,"toString/0[]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\HikariDataSource.java,com.zaxxer.hikari.HikariDataSource,"unwrap/1[java.lang.Class]",1.0,1.0,0.5,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyDatabaseMetaData.java,com.zaxxer.hikari.pool.ProxyDatabaseMetaData,"checkException/1[java.sql.SQLException]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyDatabaseMetaData.java,com.zaxxer.hikari.pool.ProxyDatabaseMetaData,"getAttributes/4[java.lang.String, java.lang.String, java.lang.String, java.lang.String]",4.0,2.0,0.33333334,3.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyDatabaseMetaData.java,com.zaxxer.hikari.pool.ProxyDatabaseMetaData,"getBestRowIdentifier/5[java.lang.String, java.lang.String, java.lang.String, int, boolean]",4.0,2.0,0.33333334,3.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyDatabaseMetaData.java,com.zaxxer.hikari.pool.ProxyDatabaseMetaData,"getCatalogs/0[]",4.0,2.0,0.33333334,3.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyDatabaseMetaData.java,com.zaxxer.hikari.pool.ProxyDatabaseMetaData,"getClientInfoProperties/0[]",4.0,2.0,0.33333334,3.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyDatabaseMetaData.java,com.zaxxer.hikari.pool.ProxyDatabaseMetaData,"getColumnPrivileges/4[java.lang.String, java.lang.String, java.lang.String, java.lang.String]",4.0,2.0,0.33333334,3.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyDatabaseMetaData.java,com.zaxxer.hikari.pool.ProxyDatabaseMetaData,"getColumns/4[java.lang.String, java.lang.String, java.lang.String, java.lang.String]",4.0,2.0,0.33333334,3.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyDatabaseMetaData.java,com.zaxxer.hikari.pool.ProxyDatabaseMetaData,"getConnection/0[]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyDatabaseMetaData.java,com.zaxxer.hikari.pool.ProxyDatabaseMetaData,"getCrossReference/6[java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String]",4.0,2.0,0.33333334,3.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyDatabaseMetaData.java,com.zaxxer.hikari.pool.ProxyDatabaseMetaData,"getExportedKeys/3[java.lang.String, java.lang.String, java.lang.String]",4.0,2.0,0.33333334,3.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyDatabaseMetaData.java,com.zaxxer.hikari.pool.ProxyDatabaseMetaData,"getFunctionColumns/4[java.lang.String, java.lang.String, java.lang.String, java.lang.String]",4.0,2.0,0.33333334,3.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyDatabaseMetaData.java,com.zaxxer.hikari.pool.ProxyDatabaseMetaData,"getFunctions/3[java.lang.String, java.lang.String, java.lang.String]",4.0,2.0,0.33333334,3.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyDatabaseMetaData.java,com.zaxxer.hikari.pool.ProxyDatabaseMetaData,"getImportedKeys/3[java.lang.String, java.lang.String, java.lang.String]",4.0,2.0,0.33333334,3.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyDatabaseMetaData.java,com.zaxxer.hikari.pool.ProxyDatabaseMetaData,"getIndexInfo/5[java.lang.String, java.lang.String, java.lang.String, boolean, boolean]",4.0,2.0,0.33333334,3.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyDatabaseMetaData.java,com.zaxxer.hikari.pool.ProxyDatabaseMetaData,"getPrimaryKeys/3[java.lang.String, java.lang.String, java.lang.String]",4.0,2.0,0.33333334,3.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyDatabaseMetaData.java,com.zaxxer.hikari.pool.ProxyDatabaseMetaData,"getProcedureColumns/4[java.lang.String, java.lang.String, java.lang.String, java.lang.String]",4.0,2.0,0.33333334,3.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyDatabaseMetaData.java,com.zaxxer.hikari.pool.ProxyDatabaseMetaData,"getProcedures/3[java.lang.String, java.lang.String, java.lang.String]",4.0,2.0,0.33333334,3.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyDatabaseMetaData.java,com.zaxxer.hikari.pool.ProxyDatabaseMetaData,"getPseudoColumns/4[java.lang.String, java.lang.String, java.lang.String, java.lang.String]",4.0,2.0,0.33333334,3.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyDatabaseMetaData.java,com.zaxxer.hikari.pool.ProxyDatabaseMetaData,"getSchemas/0[]",4.0,2.0,0.33333334,3.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyDatabaseMetaData.java,com.zaxxer.hikari.pool.ProxyDatabaseMetaData,"getSchemas/2[java.lang.String, java.lang.String]",4.0,2.0,0.33333334,3.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyDatabaseMetaData.java,com.zaxxer.hikari.pool.ProxyDatabaseMetaData,"getSuperTables/3[java.lang.String, java.lang.String, java.lang.String]",4.0,2.0,0.33333334,3.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyDatabaseMetaData.java,com.zaxxer.hikari.pool.ProxyDatabaseMetaData,"getSuperTypes/3[java.lang.String, java.lang.String, java.lang.String]",4.0,2.0,0.33333334,3.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyDatabaseMetaData.java,com.zaxxer.hikari.pool.ProxyDatabaseMetaData,"getTablePrivileges/3[java.lang.String, java.lang.String, java.lang.String]",4.0,2.0,0.33333334,3.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyDatabaseMetaData.java,com.zaxxer.hikari.pool.ProxyDatabaseMetaData,"getTableTypes/0[]",4.0,2.0,0.33333334,3.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyDatabaseMetaData.java,com.zaxxer.hikari.pool.ProxyDatabaseMetaData,"getTables/4[java.lang.String, java.lang.String, java.lang.String, java.lang.String[]]",4.0,2.0,0.33333334,3.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyDatabaseMetaData.java,com.zaxxer.hikari.pool.ProxyDatabaseMetaData,"getTypeInfo/0[]",4.0,2.0,0.33333334,3.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyDatabaseMetaData.java,com.zaxxer.hikari.pool.ProxyDatabaseMetaData,"getUDTs/4[java.lang.String, java.lang.String, java.lang.String, int[]]",4.0,2.0,0.33333334,3.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyDatabaseMetaData.java,com.zaxxer.hikari.pool.ProxyDatabaseMetaData,"getVersionColumns/3[java.lang.String, java.lang.String, java.lang.String]",4.0,2.0,0.33333334,3.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyDatabaseMetaData.java,com.zaxxer.hikari.pool.ProxyDatabaseMetaData,"isWrapperFor/1[java.lang.Class]",0.0,2.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyDatabaseMetaData.java,com.zaxxer.hikari.pool.ProxyDatabaseMetaData,"toString/0[]",2.0,0.0,0.0,2.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyDatabaseMetaData.java,com.zaxxer.hikari.pool.ProxyDatabaseMetaData,"unwrap/1[java.lang.Class]",0.0,3.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\ClockSource.java,com.zaxxer.hikari.util.ClockSource$Factory,"create/0[]",1.0,0.0,0.0,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\metrics\dropwizard\CodahaleHealthChecker.java,com.zaxxer.hikari.metrics.dropwizard.CodahaleHealthChecker$ConnectivityHealthCheck,"check/0[]",1.0,1.0,0.5,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyLeakTask.java,com.zaxxer.hikari.pool.ProxyLeakTask,"cancel/0[]",0.0,3.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyLeakTask.java,com.zaxxer.hikari.pool.ProxyLeakTask,"run/0[]",4.0,4.0,0.5,2.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyLeakTask.java,com.zaxxer.hikari.pool.ProxyLeakTask,"schedule/2[java.util.concurrent.ScheduledExecutorService, long]",1.0,1.0,0.5,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyConnection.java,com.zaxxer.hikari.pool.ProxyConnection$ClosedConnection,"getClosedConnection/0[]",8.0,0.0,0.0,5.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyResultSet.java,com.zaxxer.hikari.pool.ProxyResultSet,"checkException/1[java.sql.SQLException]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyResultSet.java,com.zaxxer.hikari.pool.ProxyResultSet,"deleteRow/0[]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyResultSet.java,com.zaxxer.hikari.pool.ProxyResultSet,"getStatement/0[]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyResultSet.java,com.zaxxer.hikari.pool.ProxyResultSet,"insertRow/0[]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyResultSet.java,com.zaxxer.hikari.pool.ProxyResultSet,"isWrapperFor/1[java.lang.Class]",0.0,2.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyResultSet.java,com.zaxxer.hikari.pool.ProxyResultSet,"toString/0[]",2.0,1.0,0.33333334,2.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyResultSet.java,com.zaxxer.hikari.pool.ProxyResultSet,"unwrap/1[java.lang.Class]",0.0,3.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyResultSet.java,com.zaxxer.hikari.pool.ProxyResultSet,"updateRow/0[]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\metrics\prometheus\PrometheusHistogramMetricsTracker.java,com.zaxxer.hikari.metrics.prometheus.PrometheusHistogramMetricsTracker,"close/0[]",0.0,5.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\metrics\prometheus\PrometheusHistogramMetricsTracker.java,com.zaxxer.hikari.metrics.prometheus.PrometheusHistogramMetricsTracker,"recordConnectionAcquiredNanos/1[long]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\metrics\prometheus\PrometheusHistogramMetricsTracker.java,com.zaxxer.hikari.metrics.prometheus.PrometheusHistogramMetricsTracker,"recordConnectionCreatedMillis/1[long]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\metrics\prometheus\PrometheusHistogramMetricsTracker.java,com.zaxxer.hikari.metrics.prometheus.PrometheusHistogramMetricsTracker,"recordConnectionTimeout/0[]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\metrics\prometheus\PrometheusHistogramMetricsTracker.java,com.zaxxer.hikari.metrics.prometheus.PrometheusHistogramMetricsTracker,"recordConnectionUsageMillis/1[long]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\metrics\prometheus\PrometheusHistogramMetricsTracker.java,com.zaxxer.hikari.metrics.prometheus.PrometheusHistogramMetricsTracker,"registerHistogram/3[java.lang.String, java.lang.String, double]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\metrics\prometheus\PrometheusHistogramMetricsTracker.java,com.zaxxer.hikari.metrics.prometheus.PrometheusHistogramMetricsTracker,"registerMetrics/1[io.prometheus.client.CollectorRegistry]",1.0,0.0,0.0,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyConnection.java,com.zaxxer.hikari.pool.ProxyConnection,"cancelLeakTask/0[]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyConnection.java,com.zaxxer.hikari.pool.ProxyConnection,"checkException/1[java.sql.SQLException]",12.0,3.0,0.2,5.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyConnection.java,com.zaxxer.hikari.pool.ProxyConnection,"close/0[]",3.0,7.0,0.7,2.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyConnection.java,com.zaxxer.hikari.pool.ProxyConnection,"closeStatements/0[]",4.0,3.0,0.42857143,3.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyConnection.java,com.zaxxer.hikari.pool.ProxyConnection,"commit/0[]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyConnection.java,com.zaxxer.hikari.pool.ProxyConnection,"createStatement/0[]",1.0,0.0,0.0,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyConnection.java,com.zaxxer.hikari.pool.ProxyConnection,"createStatement/2[int, int]",1.0,0.0,0.0,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyConnection.java,com.zaxxer.hikari.pool.ProxyConnection,"createStatement/3[int, int, int]",1.0,0.0,0.0,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyConnection.java,com.zaxxer.hikari.pool.ProxyConnection,"getAutoCommit/0[]",1.0,3.0,0.75,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyConnection.java,com.zaxxer.hikari.pool.ProxyConnection,"getAutoCommitState/0[]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyConnection.java,com.zaxxer.hikari.pool.ProxyConnection,"getCatalog/0[]",1.0,3.0,0.75,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyConnection.java,com.zaxxer.hikari.pool.ProxyConnection,"getCatalogState/0[]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyConnection.java,com.zaxxer.hikari.pool.ProxyConnection,"getMetaData/0[]",2.0,0.0,0.0,2.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyConnection.java,com.zaxxer.hikari.pool.ProxyConnection,"getNetworkTimeout/0[]",1.0,3.0,0.75,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyConnection.java,com.zaxxer.hikari.pool.ProxyConnection,"getNetworkTimeoutState/0[]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyConnection.java,com.zaxxer.hikari.pool.ProxyConnection,"getPoolEntry/0[]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyConnection.java,com.zaxxer.hikari.pool.ProxyConnection,"getReadOnlyState/0[]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyConnection.java,com.zaxxer.hikari.pool.ProxyConnection,"getSchema/0[]",1.0,3.0,0.75,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyConnection.java,com.zaxxer.hikari.pool.ProxyConnection,"getSchemaState/0[]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyConnection.java,com.zaxxer.hikari.pool.ProxyConnection,"getTransactionIsolation/0[]",1.0,3.0,0.75,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyConnection.java,com.zaxxer.hikari.pool.ProxyConnection,"getTransactionIsolationState/0[]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyConnection.java,com.zaxxer.hikari.pool.ProxyConnection,"isClosed/0[]",1.0,1.0,0.5,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyConnection.java,com.zaxxer.hikari.pool.ProxyConnection,"isReadOnly/0[]",0.0,3.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyConnection.java,com.zaxxer.hikari.pool.ProxyConnection,"isWrapperFor/1[java.lang.Class]",0.0,2.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyConnection.java,com.zaxxer.hikari.pool.ProxyConnection,"markCommitStateDirty/0[]",0.0,2.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyConnection.java,com.zaxxer.hikari.pool.ProxyConnection,"prepareCall/1[java.lang.String]",1.0,0.0,0.0,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyConnection.java,com.zaxxer.hikari.pool.ProxyConnection,"prepareCall/3[java.lang.String, int, int]",1.0,0.0,0.0,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyConnection.java,com.zaxxer.hikari.pool.ProxyConnection,"prepareCall/4[java.lang.String, int, int, int]",1.0,0.0,0.0,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyConnection.java,com.zaxxer.hikari.pool.ProxyConnection,"prepareStatement/1[java.lang.String]",1.0,0.0,0.0,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyConnection.java,com.zaxxer.hikari.pool.ProxyConnection,"prepareStatement/2[java.lang.String, int]",1.0,0.0,0.0,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyConnection.java,com.zaxxer.hikari.pool.ProxyConnection,"prepareStatement/3[java.lang.String, int, int]",1.0,0.0,0.0,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyConnection.java,com.zaxxer.hikari.pool.ProxyConnection,"prepareStatement/4[java.lang.String, int, int, int]",1.0,0.0,0.0,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyConnection.java,com.zaxxer.hikari.pool.ProxyConnection,"prepareStatement/2[java.lang.String, int[]]",1.0,0.0,0.0,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyConnection.java,com.zaxxer.hikari.pool.ProxyConnection,"prepareStatement/2[java.lang.String, java.lang.String[]]",1.0,0.0,0.0,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyConnection.java,com.zaxxer.hikari.pool.ProxyConnection,"rollback/0[]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyConnection.java,com.zaxxer.hikari.pool.ProxyConnection,"rollback/1[java.sql.Savepoint]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyConnection.java,com.zaxxer.hikari.pool.ProxyConnection,"setAutoCommit/1[boolean]",1.0,3.0,0.75,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyConnection.java,com.zaxxer.hikari.pool.ProxyConnection,"setCatalog/1[java.lang.String]",1.0,3.0,0.75,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyConnection.java,com.zaxxer.hikari.pool.ProxyConnection,"setNetworkTimeout/2[java.util.concurrent.Executor, int]",1.0,3.0,0.75,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyConnection.java,com.zaxxer.hikari.pool.ProxyConnection,"setReadOnly/1[boolean]",1.0,3.0,0.75,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyConnection.java,com.zaxxer.hikari.pool.ProxyConnection,"setSchema/1[java.lang.String]",2.0,3.0,0.6,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyConnection.java,com.zaxxer.hikari.pool.ProxyConnection,"setTransactionIsolation/1[int]",1.0,3.0,0.75,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyConnection.java,com.zaxxer.hikari.pool.ProxyConnection,"toString/0[]",2.0,1.0,0.33333334,2.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyConnection.java,com.zaxxer.hikari.pool.ProxyConnection,"trackStatement/1[T]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyConnection.java,com.zaxxer.hikari.pool.ProxyConnection,"untrackStatement/1[java.sql.Statement]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyConnection.java,com.zaxxer.hikari.pool.ProxyConnection,"unwrap/1[java.lang.Class]",0.0,3.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\metrics\dropwizard\CodahaleHealthChecker.java,com.zaxxer.hikari.metrics.dropwizard.CodahaleHealthChecker,"registerHealthChecks/3[com.zaxxer.hikari.pool.HikariPool, com.zaxxer.hikari.HikariConfig, com.codahale.metrics.health.HealthCheckRegistry]",9.0,0.0,0.0,4.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyPreparedStatement.java,com.zaxxer.hikari.pool.ProxyPreparedStatement,"execute/0[]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyPreparedStatement.java,com.zaxxer.hikari.pool.ProxyPreparedStatement,"executeLargeUpdate/0[]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyPreparedStatement.java,com.zaxxer.hikari.pool.ProxyPreparedStatement,"executeQuery/0[]",1.0,1.0,0.5,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\ProxyPreparedStatement.java,com.zaxxer.hikari.pool.ProxyPreparedStatement,"executeUpdate/0[]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\ClockSource.java,com.zaxxer.hikari.util.ClockSource$NanosecondClockSource,"currentTime0/0[]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\ClockSource.java,com.zaxxer.hikari.util.ClockSource$NanosecondClockSource,"elapsedMillis0/1[long]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\ClockSource.java,com.zaxxer.hikari.util.ClockSource$NanosecondClockSource,"elapsedMillis0/2[long, long]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\ClockSource.java,com.zaxxer.hikari.util.ClockSource$NanosecondClockSource,"elapsedNanos0/1[long]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\ClockSource.java,com.zaxxer.hikari.util.ClockSource$NanosecondClockSource,"elapsedNanos0/2[long, long]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\ClockSource.java,com.zaxxer.hikari.util.ClockSource$NanosecondClockSource,"getSourceTimeUnit0/0[]",1.0,0.0,0.0,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\ClockSource.java,com.zaxxer.hikari.util.ClockSource$NanosecondClockSource,"plusMillis0/2[long, long]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\ClockSource.java,com.zaxxer.hikari.util.ClockSource$NanosecondClockSource,"toMillis0/1[long]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\ClockSource.java,com.zaxxer.hikari.util.ClockSource$NanosecondClockSource,"toNanos0/1[long]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\UtilityElf.java,com.zaxxer.hikari.util.UtilityElf$CustomDiscardPolicy,"rejectedExecution/2[java.lang.Runnable, java.util.concurrent.ThreadPoolExecutor]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\HikariPool.java,com.zaxxer.hikari.pool.HikariPool,"abortActiveConnections/1[java.util.concurrent.ExecutorService]",1.0,0.0,0.0,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\HikariPool.java,com.zaxxer.hikari.pool.HikariPool,"addBagItem/1[int]",1.0,1.0,0.5,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\HikariPool.java,com.zaxxer.hikari.pool.HikariPool,"checkFailFast/0[]",7.0,1.0,0.125,4.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\HikariPool.java,com.zaxxer.hikari.pool.HikariPool,"closeConnection/2[com.zaxxer.hikari.pool.PoolEntry, java.lang.String]",0.0,2.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\HikariPool.java,com.zaxxer.hikari.pool.HikariPool,"createPoolEntry/0[]",7.0,8.0,0.53333336,4.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\HikariPool.java,com.zaxxer.hikari.pool.HikariPool,"createTimeoutException/1[long]",4.0,5.0,0.5555556,2.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\HikariPool.java,com.zaxxer.hikari.pool.HikariPool,"destroyHouseKeepingExecutorService/0[]",1.0,0.0,0.0,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\HikariPool.java,com.zaxxer.hikari.pool.HikariPool,"evictConnection/1[java.sql.Connection]",1.0,0.0,0.0,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\HikariPool.java,com.zaxxer.hikari.pool.HikariPool,"fillPool/1[boolean]",3.0,5.0,0.625,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\HikariPool.java,com.zaxxer.hikari.pool.HikariPool,"getActiveConnections/0[]",2.0,0.0,0.0,2.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\HikariPool.java,com.zaxxer.hikari.pool.HikariPool,"getConnection/0[]",0.0,2.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\HikariPool.java,com.zaxxer.hikari.pool.HikariPool,"getConnection/1[long]",5.0,5.0,0.5,3.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\HikariPool.java,com.zaxxer.hikari.pool.HikariPool,"getIdleConnections/0[]",2.0,0.0,0.0,2.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\HikariPool.java,com.zaxxer.hikari.pool.HikariPool,"getPoolStateCounts/0[]",1.0,0.0,0.0,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\HikariPool.java,com.zaxxer.hikari.pool.HikariPool,"getPoolStats/0[]",8.0,4.0,0.33333334,2.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\HikariPool.java,com.zaxxer.hikari.pool.HikariPool,"getThreadsAwaitingConnection/0[]",1.0,0.0,0.0,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\HikariPool.java,com.zaxxer.hikari.pool.HikariPool,"getTotalConnections/0[]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\HikariPool.java,com.zaxxer.hikari.pool.HikariPool,"initializeHouseKeepingExecutorService/0[]",5.0,1.0,0.16666667,2.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\HikariPool.java,com.zaxxer.hikari.pool.HikariPool,"logPoolState/1[java.lang.String[]]",3.0,5.0,0.625,2.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\HikariPool.java,com.zaxxer.hikari.pool.HikariPool,"recycle/1[com.zaxxer.hikari.pool.PoolEntry]",2.0,2.0,0.5,2.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\HikariPool.java,com.zaxxer.hikari.pool.HikariPool,"resumePool/0[]",0.0,4.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\HikariPool.java,com.zaxxer.hikari.pool.HikariPool,"setHealthCheckRegistry/1[java.lang.Object]",4.0,2.0,0.33333334,2.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\HikariPool.java,com.zaxxer.hikari.pool.HikariPool,"setMetricRegistry/1[java.lang.Object]",3.0,4.0,0.5714286,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\HikariPool.java,com.zaxxer.hikari.pool.HikariPool,"setMetricsTrackerFactory/1[com.zaxxer.hikari.metrics.MetricsTrackerFactory]",1.0,3.0,0.75,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\HikariPool.java,com.zaxxer.hikari.pool.HikariPool,"shutdown/0[]",6.0,7.0,0.53846157,3.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\HikariPool.java,com.zaxxer.hikari.pool.HikariPool,"softEvictConnection/3[com.zaxxer.hikari.pool.PoolEntry, java.lang.String, boolean]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\HikariPool.java,com.zaxxer.hikari.pool.HikariPool,"softEvictConnections/0[]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\HikariPool.java,com.zaxxer.hikari.pool.HikariPool,"suspendPool/0[]",1.0,6.0,0.85714287,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\pool\HikariPool.java,com.zaxxer.hikari.pool.HikariPool,"throwPoolInitializationException/1[java.lang.Throwable]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\ClockSource.java,com.zaxxer.hikari.util.ClockSource$MillisecondClockSource,"currentTime0/0[]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\ClockSource.java,com.zaxxer.hikari.util.ClockSource$MillisecondClockSource,"elapsedMillis0/1[long]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\ClockSource.java,com.zaxxer.hikari.util.ClockSource$MillisecondClockSource,"elapsedMillis0/2[long, long]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\ClockSource.java,com.zaxxer.hikari.util.ClockSource$MillisecondClockSource,"elapsedNanos0/1[long]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\ClockSource.java,com.zaxxer.hikari.util.ClockSource$MillisecondClockSource,"elapsedNanos0/2[long, long]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\ClockSource.java,com.zaxxer.hikari.util.ClockSource$MillisecondClockSource,"getSourceTimeUnit0/0[]",1.0,0.0,0.0,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\ClockSource.java,com.zaxxer.hikari.util.ClockSource$MillisecondClockSource,"plusMillis0/2[long, long]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\ClockSource.java,com.zaxxer.hikari.util.ClockSource$MillisecondClockSource,"toMillis0/1[long]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\ClockSource.java,com.zaxxer.hikari.util.ClockSource$MillisecondClockSource,"toNanos0/1[long]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\metrics\prometheus\PrometheusHistogramMetricsTrackerFactory.java,com.zaxxer.hikari.metrics.prometheus.PrometheusHistogramMetricsTrackerFactory,"create/2[java.lang.String, com.zaxxer.hikari.metrics.PoolStats]",0.0,4.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\metrics\prometheus\PrometheusHistogramMetricsTrackerFactory.java,com.zaxxer.hikari.metrics.prometheus.PrometheusHistogramMetricsTrackerFactory,"registerCollector/2[io.prometheus.client.Collector, io.prometheus.client.CollectorRegistry]",1.0,0.0,0.0,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\UtilityElf.java,com.zaxxer.hikari.util.UtilityElf$DefaultThreadFactory,"newThread/1[java.lang.Runnable]",1.0,2.0,0.6666667,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\metrics\prometheus\PrometheusMetricsTracker.java,com.zaxxer.hikari.metrics.prometheus.PrometheusMetricsTracker,"close/0[]",0.0,5.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\metrics\prometheus\PrometheusMetricsTracker.java,com.zaxxer.hikari.metrics.prometheus.PrometheusMetricsTracker,"createSummary/2[java.lang.String, java.lang.String]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\metrics\prometheus\PrometheusMetricsTracker.java,com.zaxxer.hikari.metrics.prometheus.PrometheusMetricsTracker,"recordConnectionAcquiredNanos/1[long]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\metrics\prometheus\PrometheusMetricsTracker.java,com.zaxxer.hikari.metrics.prometheus.PrometheusMetricsTracker,"recordConnectionCreatedMillis/1[long]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\metrics\prometheus\PrometheusMetricsTracker.java,com.zaxxer.hikari.metrics.prometheus.PrometheusMetricsTracker,"recordConnectionTimeout/0[]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\metrics\prometheus\PrometheusMetricsTracker.java,com.zaxxer.hikari.metrics.prometheus.PrometheusMetricsTracker,"recordConnectionUsageMillis/1[long]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\metrics\prometheus\PrometheusMetricsTracker.java,com.zaxxer.hikari.metrics.prometheus.PrometheusMetricsTracker,"registerMetrics/1[io.prometheus.client.CollectorRegistry]",1.0,0.0,0.0,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\metrics\micrometer\MicrometerMetricsTrackerFactory.java,com.zaxxer.hikari.metrics.micrometer.MicrometerMetricsTrackerFactory,"create/2[java.lang.String, com.zaxxer.hikari.metrics.PoolStats]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\SuspendResumeLock.java,com.zaxxer.hikari.util.SuspendResumeLock,"acquire/0[]",1.0,0.0,0.0,1.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\SuspendResumeLock.java,com.zaxxer.hikari.util.SuspendResumeLock,"release/0[]",0.0,0.0,-1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\SuspendResumeLock.java,com.zaxxer.hikari.util.SuspendResumeLock,"resume/0[]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\SuspendResumeLock.java,com.zaxxer.hikari.util.SuspendResumeLock,"suspend/0[]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\Credentials.java,com.zaxxer.hikari.util.Credentials,"getPassword/0[]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\Credentials.java,com.zaxxer.hikari.util.Credentials,"getUsername/0[]",0.0,1.0,1.0,0.0
+C:\Users\syuuj\HikariCP\src\main\java\com\zaxxer\hikari\util\Credentials.java,com.zaxxer.hikari.util.Credentials,"of/2[java.lang.String, java.lang.String]",0.0,0.0,-1.0,0.0
