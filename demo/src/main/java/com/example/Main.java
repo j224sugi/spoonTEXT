@@ -6,6 +6,8 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
+import java.nio.file.Paths;
+import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Stream;
 
@@ -18,14 +20,21 @@ public class Main {
     public static void main(String[] args) throws IOException {
         Launcher launcher = new Launcher();
         try {
-            File file = new File("C:\\Users\\syuuj\\spoonTEXT\\demo\\first.txt");
-            BufferedReader reader = new BufferedReader(new FileReader(file));
+            File allfile = new File("C:\\Users\\syuuj\\spoonTEXT\\demo\\first.txt");
+            BufferedReader allreader = new BufferedReader(new FileReader(allfile));
             String str;
-            while ((str = reader.readLine()) != null) {
+            while ((str = allreader.readLine()) != null) {
                 launcher.addInputResource(str);
             }
-        } catch (Exception e) {
-            System.out.println("失敗"+e.getMessage());
+            File diffFile = new File("C:\\Users\\syuuj\\spoonTEXT\\demo\\first.txt");   //後ほどlogを読み取ったファイルに置き換える
+            BufferedReader diffReader = new BufferedReader(new FileReader(diffFile));
+            List<Path> diffFileList=new ArrayList<>();
+            while((str=diffReader.readLine())!=null){
+                diffFileList.add(Paths.get(str));                                          //１つ目の要素はgitのhash値　それ以降の要素が変更のあったファイル名
+            }
+
+        } catch (IOException e) {
+            System.out.println("失敗" + e.getMessage());
         }
 
         launcher.getEnvironment().setCommentEnabled(false);
