@@ -1,2 +1,3 @@
-82f8683129e83b2d7ad9c95efcd4777212d13762
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/helper/StringUtil.java
+db2d5aa85352fe63531540ef396b944e2fe58e2c
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/Evaluator.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/QueryParser.java

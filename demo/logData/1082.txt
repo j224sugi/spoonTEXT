@@ -1,2 +1,2 @@
-0d8ec3812c8a3617e3f4fb2c6325059ee695f1a7
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/examples/HtmlToPlainText.java
+7b9f17760049161b775fd23b15653961620e259d
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Element.java

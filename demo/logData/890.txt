@@ -1,4 +1,7 @@
-c1924becd50885dfaf9bce062f86e04b10c688eb
-C:/Users/sugii syuji/jsoup/4ae8917dac1019fc08b091c13b66d846311ebdc4
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/Connection.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/helper/HttpConnection.java
+7d7a298864223fd4ecea3acaa42257d24ddec1e8
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/helper/DataUtil.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/CharacterReader.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/HtmlTreeBuilder.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/Parser.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/TreeBuilder.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/XmlTreeBuilder.java

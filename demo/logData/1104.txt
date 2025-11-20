@@ -1,5 +1,3 @@
-e30ed5d35cbcb92584d7fee8ae862f3929e443d8
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/helper/DescendableLinkedList.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/Token.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/TreeBuilder.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/TreeBuilderState.java
+444b5cea6a4c02cecfd50e5d1ecaaaa389d05781
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Node.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/Elements.java

@@ -1,2 +1,3 @@
-97d203b3e70d9f2387fb6b11fb115b182e1f5e41
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/Selector.java
+8c07dc18a69efe2ea811d4c1ffe630b56e2d8629
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Element.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/Elements.java

@@ -1,6 +1,2 @@
-2c8b9ad145d3b808be19ce03a99797215e0c3ca3
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Node.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/TokenQueue.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/CombiningEvaluator.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/NodeTraversor.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/QueryParser.java
+862c256fb6e1166ca42a2f8b885c5285baf6c1f9
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/HtmlTreeBuilderState.java

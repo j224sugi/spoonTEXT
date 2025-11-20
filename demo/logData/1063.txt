@@ -1,3 +1,2 @@
-249e5a8aae9324cc6c8caf5303a607056b15a9da
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/CombiningEvaluator.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/QueryParser.java
+1030e6182d2fde38d4d307af8e21791ad9b91429
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/HtmlTreeBuilderState.java

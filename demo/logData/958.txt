@@ -1,2 +1,3 @@
-4a28f7766124469dbdd5ad6179fe84abff3cd14f
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/Evaluator.java
+8b5fb7be962959a922dafc2073718e1457196043
+C:/Users/syuuj/jsoup/32ab9579f9df6f4c9dbab5e6e035dd5f8d644e2a
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/safety/Cleaner.java

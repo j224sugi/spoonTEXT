@@ -1,2 +1,2 @@
-410c15f17dd04588f9f402c8d27cb7a6843f0da7
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Node.java
+b185fd76845a9c99e4077bc017d25d65ed58d440
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Node.java

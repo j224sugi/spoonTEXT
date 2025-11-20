@@ -1,3 +1,5 @@
-05ea09d373e05aa538793ba042148f83859d1402
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Element.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Node.java
+aec561f3328980182f299e61eaae45420245141b
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Document.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Element.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/Elements.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/Selector.java

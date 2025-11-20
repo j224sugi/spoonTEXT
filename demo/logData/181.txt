@@ -1,6 +1,2 @@
-48d4be45a72c8f98c29e10fe03a3ac80fcc170bd
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Attribute.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Attributes.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Range.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/Tag.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/safety/Safelist.java
+eb602e76466ef383d68aecd944af912ab11abfd4
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/TreeBuilder.java

@@ -1,2 +1,4 @@
-3ba88d8c2ab500c07f9e2ddbc07a4bd01fadbd78
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Entities.java
+5236f0b3e64b7dcaa144eaeca187eadac3af936a
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/Connection.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/helper/HttpConnection.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/HtmlTreeBuilder.java

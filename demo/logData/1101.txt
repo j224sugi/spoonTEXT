@@ -1,3 +1,2 @@
-7fe868089855c33d6345e740bfdbe6f140794598
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/TreeBuilder.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/TreeBuilderState.java
+49eb02fe329f0bf1bbc847f613c8aa147e6c5330
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/helper/DescendableLinkedList.java

@@ -1,4 +1,3 @@
-6dc38f26dd31f1a367961f27c56b143cd0462e5a
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/helper/DataUtil.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Entities.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/CharacterReader.java
+01779db81c28933f4bffbfb2d530937a96a23b84
+C:/Users/syuuj/jsoup/84ffc4b73ca48ebe2423eac7a5f7b0aaa6c93aad
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/helper/HttpConnection.java

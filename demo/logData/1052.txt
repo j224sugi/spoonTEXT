@@ -1,2 +1,2 @@
-1e85878fe008f6c651c348dd1d5b2edf713f63bb
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/safety/Whitelist.java
+561d12a9894210d9f5a8a41d655361732a39b6c8
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/helper/DataUtil.java

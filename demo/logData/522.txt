@@ -1,4 +1,3 @@
-28792633d291818bca6cdcc1ed890afe8ca8b4ea
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Element.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/LeafNode.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Node.java
+fbd74e726108934eb7002a24aeef60c589eafdef
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Element.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/Elements.java

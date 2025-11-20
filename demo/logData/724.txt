@@ -1,3 +1,2 @@
-ad23b481e4c40fcc73c1fa59513b5a7ab0e271d6
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/NodeFilter.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/NodeTraversor.java
+6a284f14e1ddf238cbdab0cbf4e1c33dd5b81566
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/NodeTraversor.java

@@ -1,2 +1,2 @@
-c19acbb96c1c02deb310488677201683f6309708
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/internal/ConstrainableInputStream.java
+e76922661ce7d97c1730052f60062d1e2eb328c4
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/TokeniserState.java

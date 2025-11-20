@@ -1,2 +1,3 @@
-3475dc846d78e56422b3e6fdf36dfd4416f359f5
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/helper/W3CDom.java
+e38af6a351cef738885cb61fed828d9c9f6ec5a1
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Document.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Entities.java

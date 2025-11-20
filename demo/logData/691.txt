@@ -1,2 +1,2 @@
-b8411990753314ed3b746d3402dec5a65ff6d603
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/CharacterReader.java
+aeaf3c1a03fe4d5bfda4d63824a1f97dcec42e74
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Element.java

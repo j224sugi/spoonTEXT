@@ -1,2 +1,7 @@
-b919f01e4719631f2621c523d78777ba237be7dd
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/safety/Whitelist.java
+188c3be9051e7b2a8012ea1f08ad2b46005f58d5
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/Connection.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/helper/StringUtil.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Attribute.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Document.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Entities.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/Tag.java

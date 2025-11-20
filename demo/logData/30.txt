@@ -1,3 +1,2 @@
-bd155b859e8ea19e0a2b15bcfe21032237e867b4
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/internal/Normalizer.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/Evaluator.java
+503ca72b57d603083ec3c2319fb593bc410a722a
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/internal/Normalizer.java

@@ -1,13 +1,2 @@
-6d48703a9f290d83576241e65af12ee0327818a6
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/helper/W3CDom.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Document.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Element.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/HtmlTreeBuilder.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/HtmlTreeBuilderState.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/Parser.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/Tag.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/Token.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/TreeBuilder.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/XmlTreeBuilder.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/safety/Cleaner.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/Evaluator.java
+91b630f86b5ca0f3540ed0347029cb52c3228ad9
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Attributes.java

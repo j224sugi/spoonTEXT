@@ -1,3 +1,2 @@
-0b10d516ed8f907f8fb4acb9a0806137a8988d45
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/helper/W3CDom.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/Selector.java
+d647bfb9c4ed4b2d9128c8614eacf6fafff54b1e
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/StructuralEvaluator.java

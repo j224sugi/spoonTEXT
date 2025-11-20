@@ -1,3 +1,3 @@
-d8fff2de1676e50557a1d6356e6599b6df180598
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Attribute.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/StructuralEvaluator.java
+f24175e49e4359631cba640f7effaf5327094619
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Element.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/TextNode.java

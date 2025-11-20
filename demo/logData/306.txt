@@ -1,4 +1,2 @@
-c93ea51dabfbfd34d6b979f5cc876ed3b5d093a4
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/HtmlTreeBuilder.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/HtmlTreeBuilderState.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/Token.java
+21aac91219f44ed8f9a33266271bce9972719d6c
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/helper/HttpConnection.java

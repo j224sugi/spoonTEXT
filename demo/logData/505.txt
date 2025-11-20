@@ -1,2 +1,2 @@
-f84549e9fb5618cf58e37dc2f00adb8a279da371
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Comment.java
+14419a6b6bd7be5d6a2b68f90edec48fd8032bf8
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Node.java

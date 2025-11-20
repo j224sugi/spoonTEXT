@@ -1,2 +1,3 @@
-00f831840d845d5e221d44ba5d0dfac1a41fdbca
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/CombiningEvaluator.java
+38615afffecc51519e00f1b4769f6d2dc220c9bc
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/internal/StringUtil.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Element.java

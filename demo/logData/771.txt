@@ -1,3 +1,2 @@
-040ce712b73fcb3ff16b7d8dda1246ccd23a6988
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/Connection.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/TokenQueue.java
+c221cc8ab03fe7a88982cdddb9e66cff546d29df
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/Tag.java

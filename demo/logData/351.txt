@@ -1,4 +1,2 @@
-df747421a79521e668a0b21a645a169fe91d8ccd
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Element.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Node.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/TextNode.java
+f2913bd731f12f497b247885143b212cfc94225e
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/TextNode.java

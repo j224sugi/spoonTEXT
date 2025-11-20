@@ -1,2 +1,2 @@
-374ded2bc3d57108fffbead844371ecc5fab63ee
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/StructuralEvaluator.java
+5e0b048e22e422d5351e4dad7a3d90737003e456
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Element.java

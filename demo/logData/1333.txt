@@ -1,4 +1,2 @@
-7649933bba7ad5960415065dd95cc99aada42240
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/Jsoup.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/Parser.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/safety/Whitelist.java
+6fcffa8f400ec9980b9fa30d3f737eceb46be234
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/Parser.java

@@ -1,5 +1,3 @@
-916d5399a698ccf3eb2e0f02f4cad234fedec177
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Element.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Evaluator.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Node.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/Selector.java
+cf3676c534e92052acf870c71e2fa8fb9c060fe6
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/TokenQueue.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/Selector.java

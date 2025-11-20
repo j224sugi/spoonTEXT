@@ -1,3 +1,4 @@
-6c7679ce2f00a517717962fc896d80ff5b50d4be
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/NodeFilter.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/NodeVisitor.java
+4535a57711d160318d8716618d8b9c5d6fd02394
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/Evaluator.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/QueryParser.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/Selector.java

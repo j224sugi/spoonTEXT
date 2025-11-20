@@ -1,2 +1,2 @@
-627efb94e9ec8bcf09829fb8be5cbc4f4334fceb
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/safety/Whitelist.java
+3c5061f03f27f13dcf546c9752e424af715bb02a
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/Elements.java

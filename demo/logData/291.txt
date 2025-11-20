@@ -1,2 +1,3 @@
-0bed59f3aad172aafb9732b77dde87a7643aebf0
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/QueryParser.java
+0b10d516ed8f907f8fb4acb9a0806137a8988d45
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/helper/W3CDom.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/Selector.java

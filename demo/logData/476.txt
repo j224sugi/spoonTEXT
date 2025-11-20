@@ -1,2 +1,3 @@
-5fc8403e5019db62f50057366a96174ef49a1761
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/TokenQueue.java
+009dbb16861978db1f25272f12f61343cc11055e
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/Token.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/TokeniserState.java

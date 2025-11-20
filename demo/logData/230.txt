@@ -1,2 +1,2 @@
-03df8cede945507c103249250d758eea72629cc2
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/Token.java
+fc4b175e02df2ceabdec9371d1874a014a35472d
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Attributes.java

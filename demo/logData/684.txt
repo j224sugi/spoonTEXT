@@ -1,2 +1,2 @@
-e6af571528c55832a015202ac4d8db9fc424d362
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Element.java
+c3f8caa7c16c08b803b0f34bfffdf9777c7e382c
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/helper/StringUtil.java

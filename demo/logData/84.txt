@@ -1,2 +1,4 @@
-da185458a86a9a820e2b522e40b6df597d4f31f8
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/helper/HttpConnection.java
+7707efccded0f1cca2efc8ab961f64bc0b204cd4
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/helper/CookieUtil.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/CharacterReader.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/TokenQueue.java

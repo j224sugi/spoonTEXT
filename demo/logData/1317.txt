@@ -1,3 +1,2 @@
-37d4c1f1d3297fd078dd8d1574b7f7c2357a99b4
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Document.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/Parser.java
+95945f173ca94f9ac6620011cb970707351f070e
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Element.java

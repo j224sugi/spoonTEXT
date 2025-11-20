@@ -1,4 +1,2 @@
-e99c87d3f52c848db5e891dc57c3ad6b54d55bd2
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/Jsoup.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/internal/ControllableInputStream.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/internal/SimpleBufferedInput.java
+515423d68b19ca13b6040a980bd5933aaeb0681d
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/Elements.java

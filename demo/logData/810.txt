@@ -1,2 +1,2 @@
-a229d7354da5210a728ce5d43158d5cd780772db
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/TokenQueue.java
+49db84f8f2beb846fb8271fa20a28271afe37d90
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/CharacterReader.java

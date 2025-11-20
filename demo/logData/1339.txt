@@ -1,2 +1,8 @@
-7a7419fbc1bcdee4329f90b2361f4fce5376eb92
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/Selector.java
+83b8d1a6c8db2d34fbb344ae3125781978910725
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/Jsoup.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Document.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Element.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Node.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/Parser.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/safety/Cleaner.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/safety/Whitelist.java

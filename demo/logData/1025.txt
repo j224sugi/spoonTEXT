@@ -1,2 +1,4 @@
-1e30a157667af1fa7108d985dcb858a801832887
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Element.java
+a31ec08e102fd3832f3ff4449e9163440f0afb2c
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Entities.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/Parser.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/Tokeniser.java

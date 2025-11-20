@@ -1,4 +1,2 @@
-2c2cca9a198c61149282a0e36b33d6eec614d742
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/helper/Consumer.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Element.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Node.java
+db5375eb5b9b153816fb09e884f5700230d19120
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Element.java

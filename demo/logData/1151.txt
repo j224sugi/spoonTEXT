@@ -1,4 +1,2 @@
-3fb9295d4ce19e1d9bc06dd354dcfba981827abf
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/ng/AndSelector.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/ng/NotSelector.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/ng/OrSelector.java
+fbed2413bf243300e38be8903c7be49d5533e261
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/ng/HasSelector.java

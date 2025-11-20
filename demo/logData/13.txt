@@ -1,3 +1,2 @@
-71b7ce59d7e505268dc39bf006fa0c2faf64b4f7
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Element.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Node.java
+6b20f6e3d158d1ce3147c4e9306d9b485e083bf4
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/HtmlTreeBuilderState.java

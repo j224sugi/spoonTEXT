@@ -1,2 +1,2 @@
-8963e2ac79a97e694c388622e935a0471267e9eb
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/helper/DataUtil.java
+82f8683129e83b2d7ad9c95efcd4777212d13762
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/helper/StringUtil.java

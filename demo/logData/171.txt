@@ -1,2 +1,8 @@
-7e2d5038b2a435aef5400c7f04dd14080a24132e
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/StructuralEvaluator.java
+4690661055276b9ed269bb56e1147070434aed5d
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Comment.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/DataNode.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/DocumentType.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/LeafNode.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/TextNode.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/XmlDeclaration.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/Token.java

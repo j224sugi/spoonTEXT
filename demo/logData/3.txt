@@ -1,3 +1,8 @@
-ff69df4c9374d2f450fb73ddeb1b1447735e47b2
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/Collector.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/StructuralEvaluator.java
+f939ccf9c28bdf73a5fbc13f00906cef5c70d1db
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/helper/Re2jRegex.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/helper/Regex.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/internal/SharedConstants.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Element.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/Evaluator.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/NodeEvaluator.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/QueryParser.java

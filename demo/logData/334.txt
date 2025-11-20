@@ -1,3 +1,2 @@
-2df420e2c94b51a471a6ea38b9e851fb0ebefe26
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/CDataNode.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/TextNode.java
+e56c22f64a6a69a6eeb4c266874326f0959cc235
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Element.java

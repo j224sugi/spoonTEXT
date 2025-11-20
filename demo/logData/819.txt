@@ -1,4 +1,2 @@
-d3b8326ef5d739d8df1de21f4a58bbeb04a2a88a
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/Connection.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/helper/DataUtil.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/helper/HttpConnection.java
+c850608f18d6cf71d96713abed84def85f5bb8fe
+C:/Users/syuuj/jsoup/8de737bf9e3d313b3ff75f1cc893e716f49f4de0

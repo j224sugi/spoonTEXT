@@ -1,4 +1,2 @@
-6a43590f7f59685fdc9838ff32ec5e0f376f9f85
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/helper/W3CDom.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Attribute.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Attributes.java
+8fc3264c67db902cebe1f2185c11805c31eb34d3
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Element.java

@@ -1,2 +1,4 @@
-91b630f86b5ca0f3540ed0347029cb52c3228ad9
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Attributes.java
+780f5f2cbc444909e8b16bccd93a68c330b2ae22
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/Connection.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/UncheckedIOException.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/helper/DataUtil.java

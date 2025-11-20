@@ -1,2 +1,6 @@
-a8ca1dae42c522d5c13c2bd7fbe3673507679ca8
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Evaluator.java
+3205f0ef9409bb622f66315983830aa89d9313cf
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Document.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Element.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/Parser.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/StartTag.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/safety/Cleaner.java

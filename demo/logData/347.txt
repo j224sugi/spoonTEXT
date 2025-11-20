@@ -1,3 +1,4 @@
-e61f688b75f8b80f871d199ea4ad67bbf28c97ce
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/TokenQueue.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/Selector.java
+a0d957cbdbf756bf5111b2272e10418ad0f35124
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/Jsoup.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/safety/Cleaner.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/safety/Safelist.java

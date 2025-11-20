@@ -1,2 +1,2 @@
-7400feca7aa07d834cdaae87175a3ca687da250b
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/Selector.java
+7de614ffd01161d8718d7458bab9d9690ad2334f
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/helper/HttpConnection.java

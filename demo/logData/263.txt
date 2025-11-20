@@ -1,2 +1,2 @@
-1657e8fd65889cd4a60052ed31f9cb245c02dfad
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/DataNode.java
+8c81b965418227c5542c795c30cfa83ae89afb18
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/Connection.java

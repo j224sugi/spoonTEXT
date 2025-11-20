@@ -1,4 +1,2 @@
-80158d6fa7445506eaaafdeadb1f4dc291ca10a5
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/CharacterReader.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/HtmlTreeBuilder.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/HtmlTreeBuilderState.java
+3f9f33d88355f22aefc7ea402da09fd1950289ce
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/helper/DataUtil.java

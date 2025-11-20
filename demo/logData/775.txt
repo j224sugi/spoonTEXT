@@ -1,2 +1,2 @@
-79b1aa4b580534ef6ef7057d5b3b4a8250b8c5e5
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Entities.java
+b919f01e4719631f2621c523d78777ba237be7dd
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/safety/Whitelist.java

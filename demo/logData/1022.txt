@@ -1,2 +1,6 @@
-f9901ab35d61700dd56cc6c1639e00f0aa58e435
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/DocumentType.java
+77e6a1a900685c173afd5d88c9bc6123b568fc72
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/Connection.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/HttpStatusException.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/Jsoup.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/UnsupportedMimeTypeException.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/helper/HttpConnection.java

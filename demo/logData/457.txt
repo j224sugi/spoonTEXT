@@ -1,3 +1,3 @@
-42da86439df7545a7418044f7e8804b7dfb2de15
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/Tokeniser.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/TokeniserState.java
+9d538e634c47754f976e6503ed7e427f92802ec2
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/helper/DataUtil.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/internal/StringUtil.java

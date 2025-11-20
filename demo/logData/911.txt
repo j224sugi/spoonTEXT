@@ -1,2 +1,2 @@
-288b76eaf6c31bce34dd8afe180623051b91e338
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Attributes.java
+23c2d42a8b3a0b413c0f42cfc2f5f05ed0184c58
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/CharacterReader.java

@@ -1,4 +1,2 @@
-40a3cda062a8e856cd87b1f7b26d200d2c4980ec
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Attribute.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Attributes.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Node.java
+027c41520e029ae88e578cc9b28491a74d8bb25a
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/TokenQueue.java

@@ -1,2 +1,2 @@
-a4883a448416031773bba432bc5bce4492f1e19d
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/helper/W3CDom.java
+119fd967ba85924a5fe0d93e2f9fad3fe068c6fa
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/helper/HttpConnection.java

@@ -1,3 +1,2 @@
-9de27fa7cd823f6d26e33e48b36ef010c05f977c
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/Connection.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/helper/HttpConnection.java
+7a83ffee4641ca44816d113c3acf1d52722ef217
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/safety/Safelist.java

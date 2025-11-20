@@ -1,2 +1,2 @@
-70b2cf9a73e38bd3831a8e196c84556275c3f588
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/TokeniserState.java
+d0418222830f42f4f0c770e406f71454ea50e56d
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/Tokeniser.java

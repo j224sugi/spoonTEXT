@@ -1,2 +1,4 @@
-76b391e367645d367a6cdd4b48b107bcc2ee9ae1
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/StructuralEvaluator.java
+1b36b066948a2e25caca1fafe54d5210a95a3b35
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/helper/W3CDom.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/internal/Normalizer.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Element.java

@@ -1,3 +1,6 @@
-62c0595813b817ec593b0941ca4c3f29d10fac55
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/CharacterReader.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/Token.java
+979d5dd744b7cd30319965743b8a62269ba7845b
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Attributes.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Element.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Node.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/HtmlTreeBuilder.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/XmlTreeBuilder.java

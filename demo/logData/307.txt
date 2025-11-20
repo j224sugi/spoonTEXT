@@ -1,4 +1,2 @@
-dea49696e976b389864cd2926f93c6ff07bdcfa6
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/HtmlTreeBuilder.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/HtmlTreeBuilderState.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/Tag.java
+498da155d0bdc6b4420fdd942657ba43f38dd16a
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/helper/HttpConnection.java

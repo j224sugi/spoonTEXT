@@ -1,2 +1,7 @@
-9e97fbf6ada82040f4a49c9aef9a84c983074427
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/Selector.java
+eafba57cb72af5b8980bc1ed75edf4a08e1cc43f
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Attribute.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Attributes.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/BooleanAttribute.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Element.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/Token.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/TokeniserState.java

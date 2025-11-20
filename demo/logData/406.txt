@@ -1,3 +1,2 @@
-7f1732a50ae9478496f74307fc0ac22044a504d0
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/QueryParser.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/Selector.java
+b049d5bc2a95fbdd4f7eb0be2bfa2dc36643bfe3
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/internal/ConstrainableInputStream.java

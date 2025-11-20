@@ -1,3 +1,2 @@
-fbd74e726108934eb7002a24aeef60c589eafdef
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Element.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/Elements.java
+50576455fd4f244375d05b029c25b3b17edfbb74
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Attributes.java

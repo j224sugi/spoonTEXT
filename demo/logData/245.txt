@@ -1,7 +1,2 @@
-2cf9e90e9a482ef80c70264e7e13191c8632d241
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/LeafNode.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Range.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/HtmlTreeBuilder.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/HtmlTreeBuilderState.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/TreeBuilder.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/XmlTreeBuilder.java
+4ffc5be00972a060dda7116c990fd83927fba226
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/safety/Safelist.java

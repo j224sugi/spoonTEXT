@@ -1,3 +1,2 @@
-684ae68a631f6bd9b6d962e42e46bf0812d8fa4e
-C:/Users/sugii syuji/jsoup/b831caaff8953023c91d66c21a9af37b7e5e8b88
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Document.java
+e981b5dd049f1291111b24cd56fd409a9fcf82d7
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Document.java

@@ -1,2 +1,2 @@
-75bdf8ef13ea840f8b5154f8910a3482bedb951d
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Element.java
+7925168e9485e2ed82e4fd45b784e2a6470f31f9
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/CDataNode.java

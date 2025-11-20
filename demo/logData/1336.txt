@@ -1,2 +1,2 @@
-2f732574251122055092a4c6869123eb08058b14
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Node.java
+ac57740b13bddd414c98253d53092546c1c330a2
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/Selector.java

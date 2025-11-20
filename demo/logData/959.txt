@@ -1,3 +1,2 @@
-456a5545fe7d79ca2851d9a24528972159d37f66
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/Evaluator.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/Selector.java
+574e76eb211b43ea792ac69955a0bbcc244965e9
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Element.java

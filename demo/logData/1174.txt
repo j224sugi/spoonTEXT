@@ -1,4 +1,6 @@
-13c2af3f24fceda5b44776a5257112ac7218d038
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Element.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/TextNode.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/Tag.java
+5ca6b4041d0605025f1a1582a605d2aee377bc1c
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Attribute.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Attributes.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Document.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Element.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Node.java

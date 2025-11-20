@@ -1,2 +1,13 @@
-d1b57703e1131ba316beb84e8d9f6fcfa9ba6510
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/CharacterReader.java
+af61d0720599519828209b3b5f8ef06f61fe7768
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/SerializationException.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Attribute.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Attributes.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Comment.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/DataNode.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Document.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/DocumentType.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Element.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Entities.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Node.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/TextNode.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/XmlDeclaration.java

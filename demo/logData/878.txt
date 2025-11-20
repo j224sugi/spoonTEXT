@@ -1,3 +1,2 @@
-05faab380c9b3322f24fcba833173a358765f89f
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/TextNode.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/Tokeniser.java
+32fc662b79efa351bf55118d9540522159df1c6e
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Attributes.java

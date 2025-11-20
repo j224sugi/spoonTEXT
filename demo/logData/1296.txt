@@ -1,2 +1,4 @@
-45e787d054b2851e0f3607bab47e2c41496efe76
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/Tag.java
+671e03b570f586b6583feb1ee3ddb5d5c62bd50c
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Element.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/Collector.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/Selector.java

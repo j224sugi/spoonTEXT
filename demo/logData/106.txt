@@ -1,3 +1,2 @@
-6c413dffdc415ec6cc7f661604635f2d9ef6ca5b
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/Connection.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/helper/HttpConnection.java
+63023f8b29048e2768cb6c0cfa5c168357b2955d
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/Elements.java

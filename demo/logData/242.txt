@@ -1,3 +1,14 @@
-94af4ec25ded5c74b4a5748d59378fb955b5ecc1
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/safety/Cleaner.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/safety/Safelist.java
+2d517c769763e749ce0c3242b40be66c36af9918
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/internal/SharedConstants.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Attribute.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Attributes.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Element.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Node.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Range.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/CharacterReader.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/ParseError.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/Parser.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/Token.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/Tokeniser.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/TokeniserState.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/TreeBuilder.java

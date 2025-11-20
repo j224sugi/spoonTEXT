@@ -1,4 +1,3 @@
-3afde5830e5bc811dfaf214be86652e2c1f95489
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Document.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Element.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Node.java
+d66decd3c6ce450c19f276e9693a2727b7aa9748
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/NodeTraversor.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/NodeVisitor.java

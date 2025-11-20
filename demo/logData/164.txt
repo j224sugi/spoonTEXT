@@ -1,4 +1,2 @@
-91b5a56c63a9f8dca761b4cab959977fcd3308fd
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Attributes.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/HtmlTreeBuilderState.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/Token.java
+708fc1fc5e41b8bb02d0ce15a9da8086f6bdb9dd
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/CombiningEvaluator.java

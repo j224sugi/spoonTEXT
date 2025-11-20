@@ -1,4 +1,2 @@
-7707efccded0f1cca2efc8ab961f64bc0b204cd4
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/helper/CookieUtil.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/CharacterReader.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/TokenQueue.java
+c9695d66b43c7b5087e2de9d55f03c3cdb006d34
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Comment.java

@@ -1,6 +1,2 @@
-3205f0ef9409bb622f66315983830aa89d9313cf
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Document.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Element.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/Parser.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/StartTag.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/safety/Cleaner.java
+9bed789bfee6c6433945c0a3e2c710c897616888
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Element.java

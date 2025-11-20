@@ -1,2 +1,3 @@
-d65185506919c50de85e766771898fdbd054e77b
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/Tag.java
+c07ba8a34b6a6d6665928e106fea67bd9144e4e0
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Element.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Node.java

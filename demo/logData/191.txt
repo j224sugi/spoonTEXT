@@ -1,5 +1,2 @@
-8c8f3f96e29c3dd7d7ad571f570d11abc21bf30e
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/Connection.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/Progress.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/helper/HttpConnection.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/internal/ControllableInputStream.java
+65589f14fea11a9eb3213e6f33c8307b0f57e767
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/Connection.java

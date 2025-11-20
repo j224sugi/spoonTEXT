@@ -1,2 +1,3 @@
-2ca58b79dd165a6eec7ce990cf53ceaf9445e5f0
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Node.java
+8a49d09f5c2acfb89b0c1f2887728793a036aa15
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/Parser.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/TokenQueue.java

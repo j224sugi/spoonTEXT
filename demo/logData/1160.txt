@@ -1,3 +1,2 @@
-2f2f8b83a69959607d9ee072188b51e87fe31ba1
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/ng/AndSelector.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/ng/OrSelector.java
+7ea1e534d6d48da3a18953f323d9b275a57c4a09
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Evaluator.java

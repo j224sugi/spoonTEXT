@@ -1,2 +1,2 @@
-63023f8b29048e2768cb6c0cfa5c168357b2955d
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/Elements.java
+4fcd4f855e0d4a6424353b7e2d70c37cfbc6fde7
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/Elements.java

@@ -1,2 +1,3 @@
-4ffc5be00972a060dda7116c990fd83927fba226
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/safety/Safelist.java
+4840efb3b91962499c5a55537c418cb93476402b
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Attributes.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Range.java

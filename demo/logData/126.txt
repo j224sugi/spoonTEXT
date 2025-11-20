@@ -1,4 +1,7 @@
-1b36b066948a2e25caca1fafe54d5210a95a3b35
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/helper/W3CDom.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/internal/Normalizer.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Element.java
+3c66e8730f72e37e17609af2732723c4fff02200
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Comment.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/XmlDeclaration.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/Token.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/Tokeniser.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/TokeniserState.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/XmlTreeBuilder.java

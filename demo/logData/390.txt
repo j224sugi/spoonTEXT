@@ -1,3 +1,2 @@
-2bad736e9a18bab0b4660423b0eb3c4dc961a312
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/NodeTraversor.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/NodeVisitor.java
+bfdd534b55aef4942582acb01287ba6431a04fa0
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/Evaluator.java

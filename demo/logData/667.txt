@@ -1,3 +1,2 @@
-0f7e0cc373aced32629f5321c9521f81d8248647
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/helper/DataUtil.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/HtmlTreeBuilderState.java
+1028b37a1dfbc5dda7b18cbe692ab168c54fb505
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/LeafNode.java

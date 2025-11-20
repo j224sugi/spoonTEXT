@@ -1,2 +1,2 @@
-a96ebc95f9ad681c3a8bb70a4d83020bf8812395
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/helper/HttpConnection.java
+62de0a18c7702ab5b0d1b4add3b8b3bd4f0dc93c
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Node.java

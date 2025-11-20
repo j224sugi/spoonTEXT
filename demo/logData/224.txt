@@ -1,2 +1,2 @@
-7e9160110f3cac233e748f4f31c2ec22f0286f6b
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/QueryParser.java
+e39b9b972ddccb73939c335231cb7d80528387d6
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Element.java

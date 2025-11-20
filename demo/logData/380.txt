@@ -1,2 +1,4 @@
-ccbd65f3bb10922b89f381c3141c11a10c68ee5c
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/internal/ConstrainableInputStream.java
+f4d00c290325935186f75f1206d16397cc157ced
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/internal/StringUtil.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/LeafNode.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/TextNode.java

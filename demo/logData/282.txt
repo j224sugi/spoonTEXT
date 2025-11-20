@@ -1,4 +1,2 @@
-9170b1d17b3b0c953c0a07b3d62a7884f3a7e019
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Element.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/QueryParser.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/StructuralEvaluator.java
+8e8970650951cef63bae78dd41ba45c98a7d75a5
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Document.java

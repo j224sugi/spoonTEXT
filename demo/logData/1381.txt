@@ -1,5 +1,2 @@
-f5b1a2ab1294970be9b4fc6abefe38ac7e5039be
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Attributes.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Document.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Element.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/StartTag.java
+d6da0b0240d8e550ab459c9b222cb34cee5a9cc8
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Node.java

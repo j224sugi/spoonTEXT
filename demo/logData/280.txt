@@ -1,9 +1,4 @@
-afc38d827ac31ee264d8444d81c3863ad569bbb9
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/UncheckedIOException.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/internal/FieldsAreNonnullByDefault.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/internal/NonnullByDefault.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/internal/ReturnsAreNonnullByDefault.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Document.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Element.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/NodeUtils.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/Evaluator.java
+9170b1d17b3b0c953c0a07b3d62a7884f3a7e019
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Element.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/QueryParser.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/StructuralEvaluator.java

@@ -1,2 +1,2 @@
-f41efcd0277bd426f1c409f2fe23080926050abf
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Attributes.java
+3b2440a257df45fc49884a5c67bb0c9ce631781d
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Document.java

@@ -1,4 +1,2 @@
-cc19d3029ab0db137da0e95cc55c20b131241cf1
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Element.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Node.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/TextNode.java
+143ede68fe70e043ca8f73cc1fbe83af944fa14a
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/helper/W3CDom.java

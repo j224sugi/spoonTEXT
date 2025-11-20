@@ -1,3 +1,2 @@
-bc320aa0e93c45fbb27e2d6ac5596f6afd9d371a
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/helper/Validate.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Document.java
+a242df8520f59cbdfcf15a0f55fdf22d14fa9ad6
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/helper/HttpConnection.java

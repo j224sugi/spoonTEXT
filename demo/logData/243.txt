@@ -1,7 +1,7 @@
-f638410d05d486d7851163acdb43a9c41774e9c9
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/Connection.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/helper/DataUtil.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/helper/HttpConnection.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/internal/ConstrainableInputStream.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/internal/ControllableInputStream.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/internal/SharedConstants.java
+2cf9e90e9a482ef80c70264e7e13191c8632d241
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/LeafNode.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Range.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/HtmlTreeBuilder.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/HtmlTreeBuilderState.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/TreeBuilder.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/XmlTreeBuilder.java

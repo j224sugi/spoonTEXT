@@ -1,2 +1,3 @@
-20ed24cefb5df53c48021459af98bef83c55f241
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Entities.java
+84de4abc83b1831f96a353e8e87d09def5c1621a
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/Jsoup.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/helper/DataUtil.java

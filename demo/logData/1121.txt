@@ -1,3 +1,2 @@
-a14fb16d6430d8de4bf31c898d119ab713840c2d
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/helper/DataUtil.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/CombiningEvaluator.java
+7eefa1b51eb9fdc36b0762c0bbc417aff4b19a39
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Node.java

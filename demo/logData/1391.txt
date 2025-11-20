@@ -1,12 +1,5 @@
-a657d090e2f127ebdce131f1f97e7758a8ddc463
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Attributes.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Comment.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Document.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Element.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Node.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/TextNode.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/AttributeParser.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/Parser.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/StartTag.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/Tag.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/Token.java
+2bc420589478b3cb01398cd9eb233be25b73b7c0
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/ParserRuntimeException.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/Position.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/Token.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/TokenStream.java

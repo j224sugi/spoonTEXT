@@ -1,3 +1,2 @@
-dc0b7cb2754e714a4e65553b7ef3d186f52d1004
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/Connection.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/helper/HttpConnection.java
+51cb86699beae26b74c594e2daaa098116f9f572
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/TokeniserState.java

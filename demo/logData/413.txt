@@ -1,4 +1,2 @@
-adba4e80be13fb7a8d0ddfb31258b628bba61b99
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/Evaluator.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/QueryParser.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/Selector.java
+6b1fbb51b501de87049b250fecc9a5076a186f6d
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/helper/W3CDom.java

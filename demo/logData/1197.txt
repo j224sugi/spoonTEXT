@@ -1,6 +1,2 @@
-b57bab46e4241cd3cacce52cb6ff310bbf69eb7b
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/helper/DataUtil.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/helper/HttpConnection.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/helper/Validate.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/Collector.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/Elements.java
+ec49e3832a1db13efc343d22798efb1523684959
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Element.java

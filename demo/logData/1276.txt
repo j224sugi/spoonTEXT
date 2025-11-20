@@ -1,2 +1,4 @@
-a3d03f9a1ffbc4e9ba5bcbe991ca6ac2e5207f6b
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/DataUtil.java
+fcab98cdd311deb3dd4fd63fef2bc6c4c397f186
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Element.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/Parser.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/Elements.java

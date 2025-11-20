@@ -1,2 +1,3 @@
-fa61c69511d2e5b30106dd0515bdee67e6bbbb03
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Attributes.java
+bd155b859e8ea19e0a2b15bcfe21032237e867b4
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/internal/Normalizer.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/Evaluator.java

@@ -1,3 +1,2 @@
-db2d5aa85352fe63531540ef396b944e2fe58e2c
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/Evaluator.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/QueryParser.java
+074d9bfd5476d0430e75073fb27001f43435c081
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Node.java

@@ -1,3 +1,4 @@
-3b97e9616b96c80b8211a2fb7358c350b491c76e
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/internal/SimpleStreamReader.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/CharacterReader.java
+1d597768bfb1c4ece19b168a1f6083cb4ff55b32
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/helper/HttpConnection.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/helper/UrlConnectionExecutor.java
+C:/Users/syuuj/jsoup/src/main/java11/org/jsoup/helper/HttpClientExecutor.java

@@ -1,5 +1,2 @@
-1038abfd34a21905e176e6d28f6377c90fce27d7
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Element.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/Evaluator.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/QueryParser.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/Selector.java
+032c97320f4ca7256a60e7319b6354c62971702c
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/helper/DataUtil.java

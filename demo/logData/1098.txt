@@ -1,2 +1,2 @@
-f36b950de16f6db134bd98969cd8fbe578d37480
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/DocumentType.java
+81d1fb98e61ff42c856504b1427a700cda7707f2
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/TokeniserState.java

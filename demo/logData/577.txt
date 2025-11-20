@@ -1,3 +1,2 @@
-528ba552b19ab2ae949feecb373ef85a0b126566
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Attribute.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Attributes.java
+6f2fd07c9a0035e796e7b549598f13563a1a7d7d
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Attributes.java

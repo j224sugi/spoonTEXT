@@ -1,3 +1,2 @@
-cf8822103dfc12c93b459518cc72e92cd6cab51b
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/QueryParser.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/Selector.java
+2a73678bf321b1bde0feae328fb378e11f011abd
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/Connection.java

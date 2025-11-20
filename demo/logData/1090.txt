@@ -1,3 +1,2 @@
-93ff111c590ea57b311705360111a3e54329a026
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/Connection.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/helper/HttpConnection.java
+7171cec2dfd3c8b58645b69970425864abf8ba1f
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/safety/Whitelist.java

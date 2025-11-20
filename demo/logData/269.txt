@@ -1,2 +1,2 @@
-eff15210b0507f3eb20ff71a201061e841b40c77
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Element.java
+8a597925a7dae0b3bce86b1b5638699abed72331
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/safety/Safelist.java

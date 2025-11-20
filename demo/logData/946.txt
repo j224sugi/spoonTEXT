@@ -1,3 +1,2 @@
-b033535fe2cf887de8076221a0d614abfcf17d7b
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/DocumentType.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/TokeniserState.java
+eab521f7a26c072b117f72c4371f71e75eafc55e
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/safety/Whitelist.java

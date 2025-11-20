@@ -1,3 +1,4 @@
-eb95cc7662dc5c438de8d9ef47ccf131bf7191a8
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/TokenQueue.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/Selector.java
+7b1a8763534bb06d5f83b03ed8f6abb3e6d4db80
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/Parser.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/TokenQueue.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/Elements.java

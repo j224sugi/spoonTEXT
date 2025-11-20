@@ -1,2 +1,3 @@
-16b2ab8e25e6bea39ae04f9d310331e411fb2e65
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/Elements.java
+8fecf72da0c9d1d6da7ec1aab0214ff68588da88
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/TokenQueue.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/QueryParser.java

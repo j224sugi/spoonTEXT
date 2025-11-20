@@ -1,3 +1,2 @@
-528d85f3a99bf3a064eb8582af0643e1cc65f206
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Entities.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/XmlTreeBuilder.java
+73e23c1aafe283c227b22993a9c9510d1113ac86
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/Selector.java

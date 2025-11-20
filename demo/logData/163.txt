@@ -1,4 +1,3 @@
-51909b1af727eea21bc011633519e31aaff82048
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/Connection.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/NodeVisitor.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/Selector.java
+5ee376bc5bbe6a4f66eb24e2180552b547b8a4bf
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Entities.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/Tokeniser.java

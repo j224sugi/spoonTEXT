@@ -1,2 +1,5 @@
-f7e2868fa34b96b5c69d583ac36399dcb33fcc41
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/Connection.java
+a97672ad240f679f0071e046a119edb6d7dcbb1c
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Element.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/Collector.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/CombiningEvaluator.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/Selector.java

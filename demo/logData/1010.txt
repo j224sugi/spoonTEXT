@@ -1,2 +1,4 @@
-fa87a8fe2838e80ae0eeba6e2978815ef5533e91
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Node.java
+7ff15ee20c961e370837d8f96ae77886ecd910d8
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Element.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Node.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/Elements.java

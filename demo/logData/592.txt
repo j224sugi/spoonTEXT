@@ -1,2 +1,8 @@
-a0711e57666055161a9eab9346e16e9ce2e0d547
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/helper/HttpConnection.java
+fb50d9635874185fc050735057b8a7363cd53f3f
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/CDataNode.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Comment.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/DataNode.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/FormElement.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/LeafNode.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/TextNode.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/XmlDeclaration.java

@@ -1,3 +1,2 @@
-945b5218b271d8c8cc0df529e8b1fd0330971e41
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/QueryParser.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/Selector.java
+8a4bdaef7aeaaa62d4016b890cdca87b1a701b7f
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/DataNode.java

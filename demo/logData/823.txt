@@ -1,2 +1,2 @@
-c3cbe1b64e7f66ff9f9b53f1388eb135e6693187
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/helper/DataUtil.java
+07d990fe2aa7f2991d5b74f96ea2de690514338b
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/NodeTraversor.java

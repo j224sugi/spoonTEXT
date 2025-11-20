@@ -1,3 +1,2 @@
-220a3b21be3b3d50ed90f5665aff031a989572f4
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/HtmlTreeBuilder.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/HtmlTreeBuilderState.java
+e52224fbfe6632248cc58c593efae9a22ba2e622
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/TextNode.java

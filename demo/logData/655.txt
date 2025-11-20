@@ -1,2 +1,2 @@
-a810d2e3615da9a37ad74a7db2ca8bc6945ab9a8
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/helper/W3CDom.java
+6be19a6fa26e6e5e3d716283bad4b5de0348a8b7
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/helper/DataUtil.java

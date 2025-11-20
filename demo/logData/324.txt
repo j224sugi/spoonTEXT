@@ -1,2 +1,2 @@
-6285062176ee27299c4f86895b5d977e54f5ede7
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/Parser.java
+3091b666a672aba7281e29d919f5c940380ef846
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Node.java

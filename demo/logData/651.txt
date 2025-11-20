@@ -1,3 +1,2 @@
-ae99d7ebaa7ce4e8446150ce4ccbad4646433f8f
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/CharacterReader.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/HtmlTreeBuilderState.java
+59f10777132745ec84eefad77dcabd2109947e97
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Element.java

@@ -1,2 +1,2 @@
-3b4f9dfa91b6f1852c35baf79c4a13eacc6112c3
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/HtmlTreeBuilder.java
+a04b3731c7efe62ccea64df86e4d58cfca3688f6
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/helper/HttpConnection.java

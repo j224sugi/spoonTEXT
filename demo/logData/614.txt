@@ -1,5 +1,2 @@
-a0b87bf10a9a520b49748c619c868caed8d7a109
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/helper/Validate.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/CharacterReader.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/Tokeniser.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/TokeniserState.java
+fb588770a45a9ab6b64fce0f800d50ec225a42ee
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/helper/HttpConnection.java

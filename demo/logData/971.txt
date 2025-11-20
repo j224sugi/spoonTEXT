@@ -1,2 +1,2 @@
-5e6e9fc84826cb79a24906987cc5d54677482a70
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Entities.java
+35407bb1557e2ee11e27cff552d561b3d83266ae
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/helper/HttpConnection.java

@@ -1,3 +1,2 @@
-1833adf54de2ec33d68abf4a64202e8572d15ccd
-C:/Users/sugii syuji/jsoup/a4c375d8ef9d2a930b34a994719ebdbc076678b7
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Element.java
+bb16e0693819afb821bce6943d8cbd178266a63e
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/helper/DataUtil.java

@@ -1,2 +1,2 @@
-51163017325cf175cda594faed991c05e9fdbe77
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/Evaluator.java
+c33ba536da04e5b22a1c2740ce38761300dd13a9
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Entities.java

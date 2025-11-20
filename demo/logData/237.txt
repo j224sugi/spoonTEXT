@@ -1,2 +1,2 @@
-bc798109ea212dc6117a31c114a0b3641d2658a5
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/safety/Cleaner.java
+4669e14039a976644e8fcd53bed422b11d32dfeb
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Attributes.java

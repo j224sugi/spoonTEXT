@@ -1,4 +1,2 @@
-afd73606a90909444e1c443b555dae7b71e6a5a0
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/internal/StringUtil.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Element.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Node.java
+532b79a61ae8191e2927c59300af68d18a54aa4e
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/safety/Cleaner.java

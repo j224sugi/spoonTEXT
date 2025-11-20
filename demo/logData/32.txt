@@ -1,2 +1,2 @@
-503ca72b57d603083ec3c2319fb593bc410a722a
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/internal/Normalizer.java
+8363915bb7f282fb76c712c310fca4fac5b636a4
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Printer.java

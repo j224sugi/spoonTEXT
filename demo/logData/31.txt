@@ -1,2 +1,3 @@
-b62e362d3945e86725c817101332b66277aff9e4
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/PseudoTextElement.java
+3b97e9616b96c80b8211a2fb7358c350b491c76e
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/internal/SimpleStreamReader.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/CharacterReader.java

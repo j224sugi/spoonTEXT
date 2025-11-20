@@ -1,3 +1,2 @@
-444b5cea6a4c02cecfd50e5d1ecaaaa389d05781
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Node.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/Elements.java
+82bb80e6cc61c03f5de4064fb593e80c9ab57ce3
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/Selector.java

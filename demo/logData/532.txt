@@ -1,7 +1,2 @@
-724b2c5bf576cbd548738756bfe5f7a7b90c6239
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Element.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Node.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/HtmlTreeBuilder.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/Parser.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/Token.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/TreeBuilder.java
+20797a47313b115eb220f4df74d39da9de94f5e0
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/XmlTreeBuilder.java

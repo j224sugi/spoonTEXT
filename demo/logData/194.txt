@@ -1,2 +1,2 @@
-61ecdf33d20d345beaf5c044f18596f63f98746c
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/QueryParser.java
+c393413d45f9be6915d6f243b255bd4df18d2774
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/StructuralEvaluator.java

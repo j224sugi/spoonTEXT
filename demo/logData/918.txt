@@ -1,3 +1,2 @@
-a76f2e9fa14185dae1e96ae2561e3ff07c966e11
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/Connection.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/helper/HttpConnection.java
+837d77f0b4d1adda9e769aba37d4253c116e0c31
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/Tag.java

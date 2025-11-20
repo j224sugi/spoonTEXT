@@ -1,2 +1,4 @@
-74f6592ca5e92c6065dd7a76d730e014f2eb3f5e
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Element.java
+dab13b2fd3288b44a3c83c3559991a97231dfcbc
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/helper/DataUtil.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/internal/SimpleBufferedInput.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/internal/SimpleStreamReader.java

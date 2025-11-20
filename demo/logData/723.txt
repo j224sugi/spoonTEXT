@@ -1,3 +1,8 @@
-fe001bcccd29f9659ff375a625fd575c9285ce86
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Node.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/Elements.java
+6652240656471a34544ccc1a8c337408cd235a46
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/examples/HtmlToPlainText.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/helper/W3CDom.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Element.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Node.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/safety/Cleaner.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/Collector.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/Elements.java

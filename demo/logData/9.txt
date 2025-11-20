@@ -1,2 +1,2 @@
-e8d5b97979a3692a2b9ea163332c75600158f89a
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/Parser.java
+3941022e5c710392c6bd9f0fe8cce69f9caa08ef
+C:/Users/syuuj/jsoup/src/main/java11/org/jsoup/helper/HttpClientExecutor.java

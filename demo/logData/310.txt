@@ -1,3 +1,4 @@
-0121311b1bd56cbbd29e9b291d42564d5135afa5
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/helper/UrlBuilder.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/internal/StringUtil.java
+6e71f35c9e940ce32439bb8cbdea70579c9fe2b4
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/helper/HttpConnection.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/helper/UrlBuilder.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/helper/Validate.java

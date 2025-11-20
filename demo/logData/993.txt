@@ -1,2 +1,2 @@
-76903813da44b8971c9cd2beff41773376c6396c
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/Tag.java
+ea41269c6e317547a42b57e816d05fb1780abdff
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/TokeniserState.java

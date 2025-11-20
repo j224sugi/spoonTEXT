@@ -1,5 +1,2 @@
-d3f4e319e009f7af8f1305279495d05e8488b089
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/HtmlTreeBuilder.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/HtmlTreeBuilderState.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/TreeBuilder.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/XmlTreeBuilder.java
+e4ae6faa38e3452a639961dbb834adcb2d104d2c
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/HtmlTreeBuilder.java

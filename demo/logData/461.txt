@@ -1,3 +1,2 @@
-50ff7100ccf1c3c6e4b3d2de0e7771aff33ecc59
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/internal/StringUtil.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Element.java
+7ec238bd7c42e9381ac744e97c5fa9a49d54de1b
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Attribute.java

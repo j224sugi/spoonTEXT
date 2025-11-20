@@ -1,3 +1,9 @@
-87b54a51777248440947c91ec43652b771c42dc6
-C:/Users/sugii syuji/jsoup/1791ef17ad6e0624a7b057b89439f7a33b3bbb82
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/TokenQueue.java
+c07c0eead5ec708303b7bfb54c28df2e7cad19e9
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/helper/StringUtil.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/CDataNode.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Element.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/TextNode.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/HtmlTreeBuilder.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/Token.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/TokeniserState.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/XmlTreeBuilder.java

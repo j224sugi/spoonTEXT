@@ -1,2 +1,4 @@
-549ed00198cabb4bc2c4b7989c902d1f1dc887e3
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/helper/DataUtil.java
+333a6469ffec02354a56d1a5eb5867dc16da58a0
+C:/Users/syuuj/jsoup/199e34bca6538c2125b00d20853eb4616c08a0b5
+C:/Users/syuuj/jsoup/91bc88c95a2ffba906a5ae1518a438048595f409
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/safety/Whitelist.java

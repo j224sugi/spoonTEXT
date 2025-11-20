@@ -1,6 +1,5 @@
-13672ea6b50a631bbdc50a6b2bfb266089fe426f
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/DocumentType.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/ParseError.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/TokenQueue.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/TreeBuilderState.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/Elements.java
+437d8eca9f51dd0ed7af5b828412ee96ac192f17
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/helper/DataUtil.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/CharacterReader.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/Tokeniser.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/TokeniserState.java

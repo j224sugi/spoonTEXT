@@ -1,2 +1,2 @@
-5c43ce2d83e44cd46049a7f0bfaeb5d9a322c032
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/HtmlTreeBuilder.java
+a97385eb2870d113427b0d9430e108236ae363b4
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/safety/Whitelist.java

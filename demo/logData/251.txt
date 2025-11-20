@@ -1,13 +1,3 @@
-b93e31d94b18b183d7c3571db164f3cc30a127ad
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/HtmlTreeBuilder.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/HtmlTreeBuilderState.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/ParseError.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/Token.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/Tokeniser.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/TokeniserState.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/TreeBuilder.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/XmlTreeBuilder.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/Collector.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/Elements.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/Evaluator.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/StructuralEvaluator.java
+c46870c266b0c1112f4b1d423cf6dd9290d04d2f
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Node.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/NodeTraversor.java

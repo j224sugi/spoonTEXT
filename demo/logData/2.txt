@@ -1,4 +1,2 @@
-836350e06d46766ad8d2c7e05b14e28519b2d04a
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/helper/UrlConnectionExecutor.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/internal/Functions.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/safety/Safelist.java
+e17d2a83deb3a4918fe9792e84b98a86a121e84f
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/helper/Regex.java

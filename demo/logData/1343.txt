@@ -1,3 +1,2 @@
-0eeefe41eef0c037f514965618e7f9c2d2129d7b
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/safety/Cleaner.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/safety/Whitelist.java
+2202259e8bbf9eafa83a0a06cf765d01f5beb69a
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/Selector.java

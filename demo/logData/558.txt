@@ -1,4 +1,2 @@
-9675a92b41593244d6d3ecd99425aeb19e2a6219
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/TextNode.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/HtmlTreeBuilder.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/HtmlTreeBuilderState.java
+51278145ef4f55e7b45276ac071332a53e6b19a6
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/Tokeniser.java

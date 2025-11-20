@@ -1,4 +1,2 @@
-2c4e79b104c0ff32566ce247617d47c0b39cc2c7
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/Connection.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/UncheckedIOException.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/helper/DataUtil.java
+b92b4f6b9b3256e97bfb6a0732bf113b6da53a4c
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/CharacterReader.java

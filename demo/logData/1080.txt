@@ -1,2 +1,2 @@
-16ca9214be8e4a6eb8b37dcfaaf21a79595d95f3
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/NodeTraversor.java
+0d8ec3812c8a3617e3f4fb2c6325059ee695f1a7
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/examples/HtmlToPlainText.java

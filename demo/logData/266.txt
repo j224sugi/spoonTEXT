@@ -1,2 +1,3 @@
-6ccd158754e21a749b2390ca27282a8dda7fb4f6
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/helper/UrlBuilder.java
+9de27fa7cd823f6d26e33e48b36ef010c05f977c
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/Connection.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/helper/HttpConnection.java

@@ -1,3 +1,2 @@
-8086b1e4088eb586e0abf939af18cf2d4beb4acb
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/Elements.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/Selector.java
+13f42529d656ddf140022707581f040bbb460e2a
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/HtmlTreeBuilderState.java

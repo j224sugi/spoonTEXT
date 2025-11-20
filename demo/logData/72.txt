@@ -1,4 +1,7 @@
-dab13b2fd3288b44a3c83c3559991a97231dfcbc
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/helper/DataUtil.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/internal/SimpleBufferedInput.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/internal/SimpleStreamReader.java
+1edd1431a42dcc092a91a5d91962e31f06a24c85
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/helper/ChangeNotifyingArrayList.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Document.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/HtmlTreeBuilder.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/Parser.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/Tag.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/TokenQueue.java

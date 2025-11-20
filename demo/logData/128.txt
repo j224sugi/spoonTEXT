@@ -1,7 +1,2 @@
-3c66e8730f72e37e17609af2732723c4fff02200
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Comment.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/XmlDeclaration.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/Token.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/Tokeniser.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/TokeniserState.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/XmlTreeBuilder.java
+5d31cac5888b872daa54e09238feeaa8e4e435e7
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Document.java

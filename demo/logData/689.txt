@@ -1,3 +1,2 @@
-e38af6a351cef738885cb61fed828d9c9f6ec5a1
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Document.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Entities.java
+b8411990753314ed3b746d3402dec5a65ff6d603
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/CharacterReader.java

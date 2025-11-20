@@ -1,5 +1,2 @@
-ed4eb9bd2526035029b0ecf210b063c7f86b6915
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/Connection.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/helper/RequestDispatch.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/helper/UrlConnectionExecutor.java
-C:/Users/sugii syuji/jsoup/src/main/java11/org/jsoup/helper/HttpClientExecutor.java
+1841811422d1f46d8efae5dfdcf7c8ed0f1643f8
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Entities.java

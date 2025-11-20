@@ -1,4 +1,10 @@
-ad203677d7d98af76d29ac8938dcdc7751ef14cc
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Attribute.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Node.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/TokenQueue.java
+10cfa0465c9d48f6a3ce3f5996259e77b43fa858
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Comment.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/DataNode.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Element.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Node.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/TextNode.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/XmlDeclaration.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/Collector.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/NodeTraversor.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/NodeVisitor.java

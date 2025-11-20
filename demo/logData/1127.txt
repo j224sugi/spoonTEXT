@@ -1,2 +1,15 @@
-9c46f13fc4b17bfa6c3cb58945568ae8d8b191af
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/helper/HttpConnection.java
+64ec9cfb151f26e85c0c206ce6aba063695e47cd
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/CombiningEvaluator.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/Evaluator.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/QueryParser.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/StructuralEvaluator.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/selectors/AndSelector.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/selectors/BasicSelector.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/selectors/HasSelector.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/selectors/ImmediateParentSelector.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/selectors/ImmediatePreviousSiblingSelector.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/selectors/NotSelector.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/selectors/OrSelector.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/selectors/ParentSelector.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/selectors/PreviousSiblingSelector.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/selectors/RootSelector.java

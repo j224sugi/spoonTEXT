@@ -1,6 +1,5 @@
-a52e669ca8bc48265accd57d610c0258f7891841
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Comment.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Element.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Node.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/TextNode.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/Tag.java
+d24b485e252d9e86858207da7a57678d41d3f72c
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Document.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Element.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/TextNode.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/Parser.java

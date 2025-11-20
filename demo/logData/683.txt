@@ -1,2 +1,2 @@
-b001b304826d33f8f2b34fc7f14a931d9a97cf8a
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Element.java
+3e4b76b6bbfc0ae1681d197dfacb3bf5afe0a5c1
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/Connection.java

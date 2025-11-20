@@ -1,2 +1,2 @@
-db5375eb5b9b153816fb09e884f5700230d19120
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Element.java
+9e5869b6e1e29de2ae8ebc335772f0603a3ef10b
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/TextNode.java

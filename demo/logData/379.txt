@@ -1,2 +1,2 @@
-f6d9aa050e3d58b6454d4eaef00f1d061f368eb4
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/TextNode.java
+eaf5028718840d71c9a7f94f538b65b135012702
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/safety/Safelist.java

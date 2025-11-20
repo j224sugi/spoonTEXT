@@ -1,3 +1,2 @@
-16491229eeee7cea72d35ff0de6ed7302fd088de
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/CharacterReader.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/HtmlTreeBuilder.java
+eec4cf3503d226272642c7507686e96870307dfb
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/helper/HttpConnection.java

@@ -1,3 +1,2 @@
-8dec9c302e2f2d2b5560fefa0d3ed7e1b813e195
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/helper/CookieUtil.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/helper/HttpConnection.java
+0daab3dd601ced7fb07d4b000bf25b1315da0b40
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/StructuralEvaluator.java

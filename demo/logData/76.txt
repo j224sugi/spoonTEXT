@@ -1,4 +1,2 @@
-01c823e35033c86a3247c451891d13df1ed2ee11
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Document.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Node.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/Parser.java
+c4dd25ee7257748cbf1f9e54ee0885d462d18694
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/QueryParser.java

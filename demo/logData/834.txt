@@ -1,3 +1,2 @@
-1dec69d8df78aee955205d8ae8bed0dfe86056f8
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/helper/W3CDom.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/NodeTraversor.java
+8e7dd7073fb3bced0c49c5e65416436359390197
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Element.java

@@ -1,3 +1,4 @@
-8c07dc18a69efe2ea811d4c1ffe630b56e2d8629
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Element.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/Elements.java
+0081d162cca8ad23b500b53799195fec644f261b
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Element.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/Parser.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/Tag.java

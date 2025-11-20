@@ -1,3 +1,2 @@
-1ece207d4d14336c405e9e3c2edee3f1cf88d14d
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/CharacterReader.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/TokeniserState.java
+1b38f80d623310e84c87b2d708ed0ab648dfafc5
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/examples/Wikipedia.java

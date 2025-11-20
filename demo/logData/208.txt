@@ -1,5 +1,3 @@
-bf40e9ca9b325fd8a49b6df20bbb2ddf644b5a1c
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/helper/HttpConnection.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/internal/Functions.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/safety/Safelist.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/StructuralEvaluator.java
+c37e8d66dd7acd1cef8a5fc860140f8796c84ab4
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/Jsoup.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/helper/DataUtil.java

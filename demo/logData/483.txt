@@ -1,3 +1,2 @@
-426e35ec1cd48cd2802e031fc8b4ef4a42de0482
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/QueryParser.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/Selector.java
+2676f413ede8139d58bf6ea43aae8c82d0b301ff
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/HtmlTreeBuilder.java

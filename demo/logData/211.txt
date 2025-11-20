@@ -1,3 +1,2 @@
-38615afffecc51519e00f1b4769f6d2dc220c9bc
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/internal/StringUtil.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Element.java
+78be89abde691c066fd55a1ca24254447e21cfe6
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/StructuralEvaluator.java

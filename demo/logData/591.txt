@@ -1,2 +1,4 @@
-f91e1e8dac668024c693a2ecd238b1c6b7219c30
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/TokenQueue.java
+e02085409f0bdd7e71441fc62448192720305444
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/helper/W3CDom.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Document.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/DocumentType.java

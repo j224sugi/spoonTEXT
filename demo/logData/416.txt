@@ -1,3 +1,2 @@
-d0ca11a2c0f6d7efbd22db0dbd63567e0fec77cb
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/helper/W3CDom.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/safety/Whitelist.java
+0d1f04a04ffc26592a8dda787a1fd0d707285e0f
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Element.java

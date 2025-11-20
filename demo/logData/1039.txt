@@ -1,3 +1,2 @@
-666275a54f3e6907b5244b612483815ee70a191d
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/Token.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/Tokeniser.java
+07a3c08a7ddb06711c3d1b5b1126076a43efa6e1
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/CharacterReader.java

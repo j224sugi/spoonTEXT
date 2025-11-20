@@ -18,11 +18,12 @@ public class Main {
 
     public static void main(String[] args) throws IOException {
         Launcher launcher = new Launcher();
-        getFiles("c:\\Users\\sugii syuji\\spoonTEXT\\demo\\first.txt").forEach(a -> launcher.addInputResource(a));
-        List<Path> diffFiles = getFiles("C:\\Users\\sugii syuji\\spoonTEXT\\demo\\logData\\1.txt").stream()
+        getFiles("c:\\Users\\syuuj\\spoonTEXT\\demo\\first.txt").forEach(a -> launcher.addInputResource(a));
+        List<Path> diffFiles = getFiles("C:\\Users\\syuuj\\spoonTEXT\\demo\\logData\\20.txt").stream()
                 .map(a -> Paths.get(a))
                 .filter(a -> Files.exists(a))
                 .toList();//変更ファイルを入手
+
         System.out.println(diffFiles);
 
         launcher.getEnvironment().setCommentEnabled(false);
@@ -30,23 +31,13 @@ public class Main {
         CtModel model = launcher.buildModel();
         Visitor visitor = new Visitor();
 
-        long startTime = System.currentTimeMillis();
         for (CtType<?> clazz : model.getAllTypes()) {
             if (diffFiles.contains(Paths.get(clazz.getPosition().getFile().getAbsolutePath()))) {
                 clazz.accept(visitor);
             }
         }
-        long endTime = System.currentTimeMillis();
 
-        long startTimeAll = System.currentTimeMillis();
-        for (CtType<?> clazz : model.getAllTypes()) {
-            clazz.accept(visitor);
-        }
-        long endTimeAll=System.currentTimeMillis();
-        System.out.println("if文ありタイム : "+(endTime-startTime)+"ms");
-        System.out.println("if文なしタイム : "+(endTimeAll-startTimeAll)+"ms");
-        
-        //visitor.printCSV(args[0]);
+        visitor.printCSV(args[0]);
     }
 
     public static List<String> getFiles(String path) {

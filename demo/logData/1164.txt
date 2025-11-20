@@ -1,4 +1,4 @@
-64433991106d616e20f7b90265e4341e34734e0a
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/ng/BasicSelector.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/ng/OrSelector.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/select/ng/SelectMatch.java
+2f4472803eace1d0df9d14a88f51e7a172602e08
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/ng/ClassSelector.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/ng/IdSelector.java
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/ng/TagSelector.java

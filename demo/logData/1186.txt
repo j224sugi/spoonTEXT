@@ -1,2 +1,2 @@
-f4f2efb22f24378eb608aa308ba30cbfee3b3df2
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/nodes/Entities.java
+0b56f3e5e012e689af8dda0e96d6e0c9f31853b6
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/Tag.java

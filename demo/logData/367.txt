@@ -1,3 +1,2 @@
-38b32245201b405185c2c36c52637f8b27ddbdd2
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/Jsoup.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/helper/DataUtil.java
+67b48ddbcd3ed055d5130141235697cea24c69d1
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/DocumentType.java

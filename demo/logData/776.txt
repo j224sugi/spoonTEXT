@@ -1,6 +1,2 @@
-f44d6e64ac97d4a5c119e3e22f22f4d87c94b7e1
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/Jsoup.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/ParseErrorList.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/Parser.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/safety/Cleaner.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/safety/Whitelist.java
+69073d98de01dbfc5560068b4d2cd705c5933a4b
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Document.java

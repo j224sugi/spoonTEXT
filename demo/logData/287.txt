@@ -1,2 +1,2 @@
-0eb8232cfc4926fe5ece8e16edcd2a806ccc413f
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/HtmlTreeBuilder.java
+1e69577e358c75a85b769583f0cf860eedb18a5e
+C:/Users/syuuj/jsoup/src/main/java/org/jsoup/helper/UrlBuilder.java

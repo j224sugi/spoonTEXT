@@ -1,7 +1,2 @@
-f8a5dfb037d363a6b6657fa71af59b66c6bec257
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/HtmlTreeBuilder.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/ParseErrorList.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/Parser.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/Tokeniser.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/TreeBuilder.java
-C:/Users/sugii syuji/jsoup/src/main/java/org/jsoup/parser/XmlTreeBuilder.java
+7dfce519e65d669edc8aec5dfaf8069905707b92
+C:/Users/syuuj/jsoup/96f316812fc31cd13c06a948cf84979c77b15f8b
