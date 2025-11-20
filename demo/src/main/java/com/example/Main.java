@@ -9,7 +9,6 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.stream.Stream;
 
 import spoon.Launcher;
 import spoon.reflect.CtModel;
@@ -19,37 +18,68 @@ public class Main {
 
     public static void main(String[] args) throws IOException {
         Launcher launcher = new Launcher();
-        try {
-            File allfile = new File("C:\\Users\\syuuj\\spoonTEXT\\demo\\first.txt");
-            BufferedReader allreader = new BufferedReader(new FileReader(allfile));
-            String str;
-            while ((str = allreader.readLine()) != null) {
-                launcher.addInputResource(str);
-            }
-            File diffFile = new File("C:\\Users\\syuuj\\spoonTEXT\\demo\\first.txt");   //後ほどlogを読み取ったファイルに置き換える
-            BufferedReader diffReader = new BufferedReader(new FileReader(diffFile));
-            List<Path> diffFileList=new ArrayList<>();
-            while((str=diffReader.readLine())!=null){
-                diffFileList.add(Paths.get(str));                                          //１つ目の要素はgitのhash値　それ以降の要素が変更のあったファイル名
-            }
-
-        } catch (IOException e) {
-            System.out.println("失敗" + e.getMessage());
-        }
+        getFiles("c:\\Users\\sugii syuji\\spoonTEXT\\demo\\first.txt").forEach(a -> launcher.addInputResource(a));
+        List<Path> diffFiles = getFiles("C:\\Users\\sugii syuji\\spoonTEXT\\demo\\logData\\1.txt").stream()
+                .map(a -> Paths.get(a))
+                .filter(a -> Files.exists(a))
+                .toList();//変更ファイルを入手
+        System.out.println(diffFiles);
 
         launcher.getEnvironment().setCommentEnabled(false);
         launcher.getEnvironment().setAutoImports(true);
         CtModel model = launcher.buildModel();
         Visitor visitor = new Visitor();
 
+        long startTime = System.currentTimeMillis();
+        for (CtType<?> clazz : model.getAllTypes()) {
+            if (diffFiles.contains(Paths.get(clazz.getPosition().getFile().getAbsolutePath()))) {
+                clazz.accept(visitor);
+            }
+        }
+        long endTime = System.currentTimeMillis();
+
+        long startTimeAll = System.currentTimeMillis();
         for (CtType<?> clazz : model.getAllTypes()) {
             clazz.accept(visitor);
         }
-        visitor.excuteMetrics();
-        visitor.printCSV(args[0]);
+        long endTimeAll=System.currentTimeMillis();
+        System.out.println("if文ありタイム : "+(endTime-startTime)+"ms");
+        System.out.println("if文なしタイム : "+(endTimeAll-startTimeAll)+"ms");
+        
+        //visitor.printCSV(args[0]);
     }
 
-    private static List<String> addJarSourceFile(Path path) throws IOException {
+    public static List<String> getFiles(String path) {
+        try {
+            File File = new File(path);   //後ほどlogを読み取ったファイルに置き換える
+            BufferedReader Reader = new BufferedReader(new FileReader(File));
+            List<String> FileList = new ArrayList<>();
+            String str;
+            while ((str = Reader.readLine()) != null) {
+                FileList.add(str);                                          //１つ目の要素はgitのhash値　それ以降の要素が変更のあったファイル名
+            }
+            Reader.close();
+            return FileList;
+        } catch (IOException e) {
+            System.out.println(e);
+        }
+        return null;
+    }
+}
+
+/*  
+        try {
+            File allfile = new File("c:\\Users\\sugii syuji\\spoonTEXT\\demo\\first.txt");
+            BufferedReader allreader = new BufferedReader(new FileReader(allfile));
+            String str;
+            while ((str = allreader.readLine()) != null) {
+                launcher.addInputResource(str);
+            }
+            allreader.close();
+        } catch (IOException e) {
+            System.out.println(e);
+        }
+private static List<String> addJarSourceFile(Path path) throws IOException {
         List<String> JarFile;
         try (Stream<Path> paths = Files.walk(path)) {
             JarFile = paths.filter(p -> p.toString().endsWith(".jar")).map(p -> p.toString()).toList();
@@ -58,7 +88,7 @@ public class Main {
     }
 
 }
-/*    
+   
     //JarFile=filterConflictingJars(JarFile);
     private static List<String> filterConflictingJars(List<String> jars) {
         List<String> safe = new ArrayList<>();

@@ -104,28 +104,36 @@ public class AccessToData extends CtScanner implements IAttribute {
     @Override
     public <T extends Object> void visitCtFieldRead(CtFieldRead<T> fieldRead) {
         if (isField(fieldRead)) {
-            String nameOfClass = fieldRead.getVariable().getDeclaringType().getQualifiedName();
-            if (isForeignClass(nameOfClass)) {      //自クラス・親クラスではない場合
-                ListOfATFD.add(nameOfClass);
-            } else {
-                ListOfATLD.add(nameOfClass);
-                if (!nameOfClass.equals(nameOfParentClass)) {
-                    ListOfLocalField.add(fieldRead);
+            if (fieldRead.getVariable() != null && fieldRead.getVariable().getDeclaringType() != null) {
+                String nameOfClass = fieldRead.getVariable().getDeclaringType().getQualifiedName();
+                if (isForeignClass(nameOfClass)) {      //自クラス・親クラスではない場合
+                    ListOfATFD.add(nameOfClass);
+                } else {
+                    ListOfATLD.add(nameOfClass);
+                    if (!nameOfClass.equals(nameOfParentClass)) {
+                        ListOfLocalField.add(fieldRead);
+                    }
                 }
+            } else {
+                ListOfATFD.add("null");
             }
         }
     }
 
     @Override
     public <T extends Object> void visitCtFieldWrite(spoon.reflect.code.CtFieldWrite<T> fieldWrite) {
-        String nameOfClass = fieldWrite.getVariable().getDeclaringType().getQualifiedName();
-        if (isForeignClass(nameOfClass)) {  
-            ListOfATFD.add(nameOfClass);
-        } else {
-            ListOfATLD.add(nameOfClass);
-            if (!nameOfClass.equals(nameOfParentClass)) {
-                ListOfLocalField.add(fieldWrite);
+        if (fieldWrite.getVariable() != null && fieldWrite.getVariable().getDeclaringType() != null) {
+            String nameOfClass = fieldWrite.getVariable().getDeclaringType().getQualifiedName();
+            if (isForeignClass(nameOfClass)) {
+                ListOfATFD.add(nameOfClass);
+            } else {
+                ListOfATLD.add(nameOfClass);
+                if (!nameOfClass.equals(nameOfParentClass)) {
+                    ListOfLocalField.add(fieldWrite);
+                }
             }
+        }else{
+            ListOfATFD.add("null");
         }
     }
 

@@ -4,7 +4,6 @@ import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
-import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -46,31 +45,22 @@ public class Visitor extends CtScanner {
 
     @Override
     public <T extends Object> void visitCtClass(CtClass<T> ctClass) {
-        nameOfClasses.add(ctClass.getQualifiedName());
         ClassMetrics classMetrics = new ClassMetrics(ctClass);
+        IAttribute superClass = new SuperClass();
+        superClass.calculate(classMetrics);
+        Set<CtMethod> methods = classMetrics.getDeclaration().getMethods();
+        for (CtMethod method : methods) {
+            MethodMetrics methodMetrics = new MethodMetrics(method, classMetrics);
+            for (IAttribute metric : metricForMethod) {
+                metric.calculate(methodMetrics);
+            }
+            classMetrics.getMethodsMetrics().add(methodMetrics);
+        }
+        for (IAttribute metric : metricForClass) {
+            metric.calculate(classMetrics);
+        }
         classesMetrics.put(ctClass, classMetrics);
         super.visitCtClass(ctClass);
-    }
-
-    public void excuteMetrics() {
-        for (CtClass clazz : classesMetrics.keySet()) {
-            if (Paths.get(clazz.getPosition().getFile().getAbsolutePath()).equals(Paths.get("C:/Users/syuuj/HikariCP/src/main/java/com/zaxxer/hikari/util/ConcurrentBag.java"))) {
-                ClassMetrics classMetrics = classesMetrics.get(clazz);
-                IAttribute superClass = new SuperClass();
-                superClass.calculate(classMetrics);
-                Set<CtMethod> methods = clazz.getMethods();
-                for (CtMethod method : methods) {
-                    MethodMetrics methodMetrics = new MethodMetrics(method, classMetrics);
-                    for (IAttribute metric : metricForMethod) {
-                        metric.calculate(methodMetrics);
-                    }
-                    classMetrics.getMethodsMetrics().add(methodMetrics);
-                }
-                for (IAttribute metric : metricForClass) {
-                    metric.calculate(classMetrics);
-                }
-            }
-        }
     }
 
     public void printCSV(String arg) throws IOException {
@@ -140,3 +130,24 @@ public class Visitor extends CtScanner {
         }
     }
 }
+
+/*public void excuteMetrics() {
+        for (CtClass clazz : classesMetrics.keySet()) {
+            //if (Paths.get(clazz.getPosition().getFile().getAbsolutePath()).equals(Paths.get("C:/Users/syuuj/HikariCP/src/main/java/com/zaxxer/hikari/util/ConcurrentBag.java"))) {
+            ClassMetrics classMetrics = classesMetrics.get(clazz);
+            IAttribute superClass = new SuperClass();
+            superClass.calculate(classMetrics);
+            Set<CtMethod> methods = clazz.getMethods();
+            for (CtMethod method : methods) {
+                MethodMetrics methodMetrics = new MethodMetrics(method, classMetrics);
+                for (IAttribute metric : metricForMethod) {
+                    metric.calculate(methodMetrics);
+                }
+                classMetrics.getMethodsMetrics().add(methodMetrics);
+            }
+            for (IAttribute metric : metricForClass) {
+                metric.calculate(classMetrics);
+            }
+            //}
+        }
+    }*/

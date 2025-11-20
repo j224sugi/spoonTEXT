@@ -6,7 +6,7 @@ import java.util.List;
 import com.example.node.ClassMetrics;
 import com.example.node.MethodMetrics;
 
-import spoon.reflect.declaration.CtType;
+import spoon.reflect.declaration.CtClass;
 import spoon.reflect.reference.CtTypeReference;
 
 public class SuperClass implements IAttribute {
@@ -21,9 +21,12 @@ public class SuperClass implements IAttribute {
     @Override
     public void calculate(ClassMetrics node) {
         superClasses.clear();
-        CtType clazz = node.getDeclaration();
+        CtClass clazz = node.getDeclaration();
         CtTypeReference current = clazz.getSuperclass();
         while (current != null) {
+            if (current.getDeclaration() == null) {
+                break;
+            }
             superClasses.add(current);
             current = current.getSuperclass();
         }

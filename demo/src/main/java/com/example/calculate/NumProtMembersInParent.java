@@ -52,10 +52,10 @@ public class NumProtMembersInParent implements IAttribute {
         superClasses = (List<CtTypeReference>) node.getAttribute("superClasses");
         if (!superClasses.isEmpty()) {
             for (CtTypeReference superClass : superClasses) {
-                if (nameOfClasses.contains(superClass.getQualifiedName())) {
+                //if (nameOfClasses.contains(superClass.getQualifiedName())) {
                     ListProtMethods(superClass);
                     ListProtFields(superClass);
-                }
+                //}
             }
             protMembers = ParentProtMethods.size() + ParentProtFields.size();
         }
