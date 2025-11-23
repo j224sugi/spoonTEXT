@@ -1,2 +1,0 @@
-f7e2868fa34b96b5c69d583ac36399dcb33fcc41
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/Connection.java

@@ -1,3 +1,0 @@
-4cbae5ad165b260c43f5c369517dff90a2139377
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Node.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/TokenStream.java

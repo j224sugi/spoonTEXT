@@ -1,2 +1,0 @@
-2c257f6482dd7a9583538b7b0d4b3b0bef9417fd
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/ParseError.java

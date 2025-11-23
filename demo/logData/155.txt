@@ -1,2 +1,0 @@
-9591169019cbf964f748eb657d1f0ab8cd0b0f09
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/helper/CookieUtil.java

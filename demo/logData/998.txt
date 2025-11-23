@@ -1,3 +1,0 @@
-9779d0dbcfab0abdfad9b81c85db43543b797683
-C:/Users/syuuj/jsoup/82200d7847e72c176611fdfa738dac62a0f79b58
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/TokeniserState.java

@@ -1,3 +1,0 @@
-f9f37e19876202a1db257a9e59452b0f10035fbf
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/Connection.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/helper/DataUtil.java

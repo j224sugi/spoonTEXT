@@ -1,3 +1,0 @@
-f0ae81b13eb3dee39d4b93e73913e5072bf5debd
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/CharacterReader.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/TokeniserState.java

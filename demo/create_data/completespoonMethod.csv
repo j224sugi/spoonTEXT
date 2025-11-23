@@ -1,7 +1,0 @@
-file,class,method,ATFD,ATLD,LAA,FDP
-C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Collector.java,org.jsoup.select.Collector,"collect/2[org.jsoup.select.Evaluator, org.jsoup.nodes.Element]",1.0,0.0,0.0,1.0
-C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Collector.java,org.jsoup.select.Collector,"collectNodes/3[org.jsoup.select.Evaluator, org.jsoup.nodes.Element, java.lang.Class]",0.0,0.0,-1.0,0.0
-C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Collector.java,org.jsoup.select.Collector,"findFirst/2[org.jsoup.select.Evaluator, org.jsoup.nodes.Element]",0.0,0.0,-1.0,0.0
-C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Collector.java,org.jsoup.select.Collector,"findFirstNode/3[org.jsoup.select.Evaluator, org.jsoup.nodes.Element, java.lang.Class]",0.0,0.0,-1.0,0.0
-C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Collector.java,org.jsoup.select.Collector,"stream/2[org.jsoup.select.Evaluator, org.jsoup.nodes.Element]",0.0,0.0,-1.0,0.0
-C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Collector.java,org.jsoup.select.Collector,"streamNodes/3[org.jsoup.select.Evaluator, org.jsoup.nodes.Element, java.lang.Class]",0.0,0.0,-1.0,0.0

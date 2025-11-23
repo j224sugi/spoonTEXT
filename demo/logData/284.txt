@@ -1,2 +1,0 @@
-48c3e992ad52b90f0e78371994b9f8d3c68c783f
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/Evaluator.java

@@ -1,3 +1,0 @@
-bd155b859e8ea19e0a2b15bcfe21032237e867b4
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/internal/Normalizer.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/Evaluator.java

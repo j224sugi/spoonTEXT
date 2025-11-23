@@ -1,2 +1,0 @@
-21759032d2b2b76e338d22c15d13bdf7993c13e1
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/Selector.java

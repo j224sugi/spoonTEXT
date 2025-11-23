@@ -1,2 +1,0 @@
-1b38f80d623310e84c87b2d708ed0ab648dfafc5
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/examples/Wikipedia.java

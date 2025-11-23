@@ -1,3 +1,0 @@
-f2ff26b63c74c379c52da1f9c58bf328598fd2ba
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/Evaluator.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/QueryParser.java

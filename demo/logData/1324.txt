@@ -1,6 +1,0 @@
-80c826dc46a5270826c411d3741bfab8c98eb42e
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Element.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Evaluator.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/Collector.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/Evaluator.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/Selector.java

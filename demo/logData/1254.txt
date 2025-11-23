@@ -1,5 +1,0 @@
-0831a08ea788e93c68159318fe8880d435d40c23
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Attribute.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/Parser.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/Tag.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/TokenQueue.java

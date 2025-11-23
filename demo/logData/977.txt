@@ -1,6 +1,0 @@
-2c8b9ad145d3b808be19ce03a99797215e0c3ca3
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Node.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/TokenQueue.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/CombiningEvaluator.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/NodeTraversor.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/QueryParser.java

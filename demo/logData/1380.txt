@@ -1,3 +1,0 @@
-9db51cf756951fa62a7670b70d314af2f0ffc197
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Element.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/Parser.java

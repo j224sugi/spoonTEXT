@@ -1,5 +1,0 @@
-75815e2d6b743bbdffede8e46d80da5c9684385c
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/examples/ListLinks.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Element.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/HtmlTreeBuilder.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/safety/Cleaner.java

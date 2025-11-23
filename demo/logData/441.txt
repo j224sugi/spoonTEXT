@@ -1,5 +1,0 @@
-2bf377f72faa3b85e1a6ef66a21fca9c04001abf
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/helper/W3CDom.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Attributes.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Element.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/NodeUtils.java

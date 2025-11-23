@@ -1,6 +1,0 @@
-b57bab46e4241cd3cacce52cb6ff310bbf69eb7b
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/helper/DataUtil.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/helper/HttpConnection.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/helper/Validate.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/Collector.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/Elements.java

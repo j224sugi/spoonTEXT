@@ -1,3 +1,0 @@
-249e5a8aae9324cc6c8caf5303a607056b15a9da
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/CombiningEvaluator.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/QueryParser.java

@@ -1,2 +1,0 @@
-e9909538549c96800dad1e94284b99575d1be628
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/ng/parser/Parser.java

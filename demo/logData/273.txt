@@ -1,2 +1,0 @@
-c42b0fe9987d42cc55bca9394bdafa5476f1060b
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/HtmlTreeBuilder.java

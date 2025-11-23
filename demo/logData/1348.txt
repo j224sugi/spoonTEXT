@@ -1,3 +1,0 @@
-00734226f07e57a2d13f82a4b395b4bb7b9ee20b
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/XmlDeclaration.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/Parser.java

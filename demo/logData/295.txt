@@ -1,5 +1,0 @@
-c57e68388f521bbb84cc4b281e6f79eb46d7a3ad
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/Collector.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/CombiningEvaluator.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/Evaluator.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/StructuralEvaluator.java

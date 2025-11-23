@@ -1,2 +1,0 @@
-42c0a0ecf47607d3407f7b5db966160bf98cd30f
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/internal/Normalizer.java

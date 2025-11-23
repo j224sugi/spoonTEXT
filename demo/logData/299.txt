@@ -1,2 +1,0 @@
-72eeaf0be2649e5785b06e5602d247dc04e413c0
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/Collector.java

@@ -1,2 +1,0 @@
-f9ffaf49226a04a15698050b3978d85585be0894
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Evaluator.java

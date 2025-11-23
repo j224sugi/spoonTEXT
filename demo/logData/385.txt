@@ -1,2 +1,0 @@
-ddfdc5b56fe0b7e8cb784c4617fd100adf9ca492
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/helper/Consumer.java

@@ -1,3 +1,0 @@
-d8fff2de1676e50557a1d6356e6599b6df180598
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Attribute.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/StructuralEvaluator.java

@@ -1,4 +1,0 @@
-7649933bba7ad5960415065dd95cc99aada42240
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/Jsoup.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/Parser.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/safety/Whitelist.java

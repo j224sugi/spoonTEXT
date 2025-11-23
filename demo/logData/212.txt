@@ -1,2 +1,0 @@
-374ded2bc3d57108fffbead844371ecc5fab63ee
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/StructuralEvaluator.java

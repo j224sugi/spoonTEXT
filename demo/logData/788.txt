@@ -1,4 +1,0 @@
-4f707008353e272c12a7a6543d6ecfc666a7cc64
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Element.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/Elements.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/QueryParser.java

@@ -1,3 +1,0 @@
-cf8822103dfc12c93b459518cc72e92cd6cab51b
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/QueryParser.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/Selector.java

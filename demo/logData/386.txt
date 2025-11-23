@@ -1,4 +1,0 @@
-180fe95df9519d2db39c3764a4c2116c4275c153
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/helper/Consumer.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Element.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Node.java

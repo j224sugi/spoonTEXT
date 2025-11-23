@@ -1,3 +1,0 @@
-0b10d516ed8f907f8fb4acb9a0806137a8988d45
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/helper/W3CDom.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/Selector.java

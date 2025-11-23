@@ -1,3 +1,0 @@
-d66decd3c6ce450c19f276e9693a2727b7aa9748
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/NodeTraversor.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/NodeVisitor.java

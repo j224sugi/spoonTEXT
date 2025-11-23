@@ -1,5 +1,0 @@
-d24b485e252d9e86858207da7a57678d41d3f72c
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Document.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Element.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/TextNode.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/Parser.java

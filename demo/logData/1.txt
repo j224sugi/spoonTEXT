@@ -1,3 +1,0 @@
-ff69df4c9374d2f450fb73ddeb1b1447735e47b2
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/Collector.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/StructuralEvaluator.java

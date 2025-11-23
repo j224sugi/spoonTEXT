@@ -1,2 +1,0 @@
-061ee0c90ac147d86d89c9fb64a0b11acfbd569a
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/CharacterReader.java

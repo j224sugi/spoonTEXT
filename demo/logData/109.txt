@@ -1,2 +1,0 @@
-3082a4f3b3bdf4b2ce5c2cf8ec6a35392d60f20f
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/helper/W3CDom.java

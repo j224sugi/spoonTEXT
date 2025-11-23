@@ -1,4 +1,0 @@
-780f5f2cbc444909e8b16bccd93a68c330b2ae22
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/Connection.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/UncheckedIOException.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/helper/DataUtil.java

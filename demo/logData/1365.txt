@@ -1,3 +1,0 @@
-e8e755bfb9a0b1b8b19e8312942ea29cb9b626da
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/TokenQueue.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/Selector.java

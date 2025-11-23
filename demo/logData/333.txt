@@ -1,3 +1,0 @@
-ace38eb5056fe5992744ef5c98f220fe4b1c4fb0
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/LeafNode.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/TextNode.java

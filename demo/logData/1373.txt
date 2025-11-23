@@ -1,5 +1,0 @@
-f435b791e193cfe771d7dbd28d2822c32a0889e2
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Attributes.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Element.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/Collector.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/Evaluator.java

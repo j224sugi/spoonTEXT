@@ -1,2 +1,0 @@
-0ca6fc9d20eb322646975192cc37e35063b9178f
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/helper/StringUtil.java

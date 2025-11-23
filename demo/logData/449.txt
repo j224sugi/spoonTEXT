@@ -1,7 +1,0 @@
-440d82455a0c88f8472e901c1d8331d15be798bf
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/CharacterReader.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/HtmlTreeBuilder.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/ParseError.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/Parser.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/Tokeniser.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/TreeBuilder.java

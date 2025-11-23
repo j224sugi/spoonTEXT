@@ -1,2 +1,0 @@
-7ec238bd7c42e9381ac744e97c5fa9a49d54de1b
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Attribute.java

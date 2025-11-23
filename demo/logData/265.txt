@@ -1,2 +1,0 @@
-f0eb6bd1ccced79ee04256e9aeb457f65bc7ea30
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/helper/HttpConnection.java

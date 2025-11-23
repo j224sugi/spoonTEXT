@@ -1,5 +1,0 @@
-eb35cdcbcd22b281e585238842321c3b53052eaf
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/Jsoup.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/internal/SharedConstants.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/safety/Cleaner.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/safety/Safelist.java

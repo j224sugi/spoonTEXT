@@ -1,2 +1,0 @@
-e17d2a83deb3a4918fe9792e84b98a86a121e84f
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/helper/Regex.java

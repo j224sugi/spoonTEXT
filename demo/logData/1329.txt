@@ -1,5 +1,0 @@
-83d1848144abf29b501d59e0c3ec41e40c9cf020
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Document.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Element.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/Parser.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/safety/Cleaner.java

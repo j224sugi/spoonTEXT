@@ -1,3 +1,0 @@
-bc320aa0e93c45fbb27e2d6ac5596f6afd9d371a
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/helper/Validate.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Document.java

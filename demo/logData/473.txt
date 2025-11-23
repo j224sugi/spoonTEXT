@@ -1,2 +1,0 @@
-4ac8a93b0a85f666941ef0198556d1e2395991eb
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/QueryParser.java

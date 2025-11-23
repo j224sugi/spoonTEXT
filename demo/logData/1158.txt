@@ -1,3 +1,0 @@
-2f2f8b83a69959607d9ee072188b51e87fe31ba1
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/ng/AndSelector.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/ng/OrSelector.java

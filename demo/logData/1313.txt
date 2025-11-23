@@ -1,3 +1,0 @@
-8929d961dfd44d1a6758b81c9a0c5adf8e408f6b
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/DataUtil.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/Jsoup.java

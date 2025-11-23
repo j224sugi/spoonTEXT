@@ -1,2 +1,0 @@
-1657e8fd65889cd4a60052ed31f9cb245c02dfad
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/DataNode.java

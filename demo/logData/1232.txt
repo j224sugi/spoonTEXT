@@ -1,4 +1,0 @@
-f8841edabba28d6125dd87ed72f557e85570066b
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Document.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Entities.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/TokenQueue.java

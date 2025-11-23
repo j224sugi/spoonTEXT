@@ -1,3 +1,0 @@
-4b46397a3c6f18f88cac76c6e983e2aa6cbef230
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/HtmlTreeBuilderState.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/Tag.java

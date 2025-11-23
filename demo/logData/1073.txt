@@ -1,7 +1,0 @@
-5000be31966a575f54d80ef85ee49ca1f5cb6ea8
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/HtmlTreeBuilder.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/HtmlTreeBuilderState.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/ParseError.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/Parser.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/TreeBuilder.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/XmlTreeBuilder.java

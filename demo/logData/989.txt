@@ -1,2 +1,0 @@
-834d3142304e0927dc659791da6a4521f271d7fd
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/Elements.java

@@ -1,7 +1,0 @@
-244db10b40f6b8138747a99d93d95eb57bf47156
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Attributes.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/HtmlTreeBuilder.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/Parser.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/Token.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/Tokeniser.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/TreeBuilder.java

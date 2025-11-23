@@ -1,4 +1,0 @@
-ca8bad78bf898f808ad6028d4a7c09a69bc65b84
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Element.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/Elements.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/Selector.java

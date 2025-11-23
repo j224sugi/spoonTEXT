@@ -1,4 +1,0 @@
-f70a7bc0e596651f81d4e47726d104d9f6db3acd
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/TokenQueue.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/CombiningEvaluator.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/QueryParser.java

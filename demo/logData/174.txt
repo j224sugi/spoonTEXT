@@ -1,3 +1,0 @@
-55e50b916fb05259d1a191c1390f5c0fdb10620a
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/helper/HttpConnection.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Attributes.java

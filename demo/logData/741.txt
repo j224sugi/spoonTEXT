@@ -1,3 +1,0 @@
-d3f02400eca1c5cbf84212c46cebcff511536655
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/helper/StringUtil.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/TokenQueue.java

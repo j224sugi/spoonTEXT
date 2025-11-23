@@ -1,2 +1,0 @@
-32a0b1979d4091a2f5e775d6ccc022a5c86556d7
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/NodeVisitor.java

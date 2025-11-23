@@ -1,5 +1,0 @@
-437d8eca9f51dd0ed7af5b828412ee96ac192f17
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/helper/DataUtil.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/CharacterReader.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/Tokeniser.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/TokeniserState.java

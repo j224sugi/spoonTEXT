@@ -1,2 +1,0 @@
-8bb732b7ccb51f4006fa7fa221762755eed949c7
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/Parser.java

@@ -1,0 +1,324 @@
+file,class,method,ATFD,ATLD,LAA,FDP
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$IsFirstOfType,"toString/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$AttributeWithValueEnding,"cost/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$AttributeWithValueEnding,"matches/2[org.jsoup.nodes.Element, org.jsoup.nodes.Element]",0.0,3.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$AttributeWithValueEnding,"toString/0[]",0.0,2.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\helper\Re2jRegex.java,org.jsoup.helper.Re2jRegex$Re2jMatcher,"find/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$AttributeWithValueContaining,"cost/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$AttributeWithValueContaining,"matches/2[org.jsoup.nodes.Element, org.jsoup.nodes.Element]",0.0,3.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$AttributeWithValueContaining,"toString/0[]",0.0,2.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$ContainsWholeOwnText,"matches/2[org.jsoup.nodes.Element, org.jsoup.nodes.Element]",0.0,1.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$ContainsWholeOwnText,"toString/0[]",0.0,1.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\NodeEvaluator.java,org.jsoup.select.NodeEvaluator,"evaluateMatch/1[org.jsoup.nodes.Node]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\NodeEvaluator.java,org.jsoup.select.NodeEvaluator,"matches/2[org.jsoup.nodes.Element, org.jsoup.nodes.Element]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\NodeEvaluator.java,org.jsoup.select.NodeEvaluator,"matches/2[org.jsoup.nodes.Element, org.jsoup.nodes.LeafNode]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\NodeEvaluator.java,org.jsoup.select.NodeEvaluator,"wantsNodes/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$IsNthLastOfType,"calculatePosition/2[org.jsoup.nodes.Element, org.jsoup.nodes.Element]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$IsNthLastOfType,"getPseudoClass/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$AttributeStarting,"cost/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$AttributeStarting,"matches/2[org.jsoup.nodes.Element, org.jsoup.nodes.Element]",1.0,1.0,0.5,1.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$AttributeStarting,"toString/0[]",0.0,1.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$MatchesWholeText,"cost/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$MatchesWholeText,"matches/2[org.jsoup.nodes.Element, org.jsoup.nodes.Element]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$MatchesWholeText,"toString/0[]",0.0,1.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\NodeEvaluator.java,org.jsoup.select.NodeEvaluator$BlankValue,"cost/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\NodeEvaluator.java,org.jsoup.select.NodeEvaluator$BlankValue,"evaluateMatch/1[org.jsoup.nodes.Node]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\NodeEvaluator.java,org.jsoup.select.NodeEvaluator$BlankValue,"toString/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$CssNthEvaluator,"calculatePosition/2[org.jsoup.nodes.Element, org.jsoup.nodes.Element]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$CssNthEvaluator,"getPseudoClass/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$CssNthEvaluator,"matches/2[org.jsoup.nodes.Element, org.jsoup.nodes.Element]",0.0,6.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$CssNthEvaluator,"toString/0[]",0.0,5.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\helper\Regex.java,org.jsoup.helper.Regex,"compile/1[java.lang.String]",1.0,1.0,0.5,1.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\helper\Regex.java,org.jsoup.helper.Regex,"fromPattern/1[java.util.regex.Pattern]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\helper\Regex.java,org.jsoup.helper.Regex,"hasRe2j/0[]",4.0,1.0,0.2,1.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\helper\Regex.java,org.jsoup.helper.Regex,"matcher/1[java.lang.CharSequence]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\helper\Regex.java,org.jsoup.helper.Regex,"toString/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\helper\Regex.java,org.jsoup.helper.Regex,"wantsRe2j/0[]",2.0,0.0,0.0,2.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\helper\Regex.java,org.jsoup.helper.Regex,"wantsRe2j/1[boolean]",2.0,0.0,0.0,2.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$ContainsOwnText,"matches/2[org.jsoup.nodes.Element, org.jsoup.nodes.Element]",0.0,1.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$ContainsOwnText,"toString/0[]",0.0,1.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$IndexGreaterThan,"matches/2[org.jsoup.nodes.Element, org.jsoup.nodes.Element]",0.0,1.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$IndexGreaterThan,"toString/0[]",0.0,1.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element$NodeList,"incrementMod/0[]",1.0,0.0,0.0,1.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element$NodeList,"modCount/0[]",1.0,0.0,0.0,1.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$IsFirstChild,"matches/2[org.jsoup.nodes.Element, org.jsoup.nodes.Element]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$IsFirstChild,"toString/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$ContainsText,"cost/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$ContainsText,"matches/2[org.jsoup.nodes.Element, org.jsoup.nodes.Element]",0.0,1.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$ContainsText,"toString/0[]",0.0,1.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$MatchesOwn,"cost/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$MatchesOwn,"matches/2[org.jsoup.nodes.Element, org.jsoup.nodes.Element]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$MatchesOwn,"toString/0[]",0.0,1.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$ContainsData,"matches/2[org.jsoup.nodes.Element, org.jsoup.nodes.Element]",0.0,1.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$ContainsData,"toString/0[]",0.0,1.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\helper\Re2jRegex.java,org.jsoup.helper.Re2jRegex,"compile/1[java.lang.String]",1.0,0.0,0.0,1.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\helper\Re2jRegex.java,org.jsoup.helper.Re2jRegex,"matcher/1[java.lang.CharSequence]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\helper\Re2jRegex.java,org.jsoup.helper.Re2jRegex,"toString/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$AttributeWithValueMatching,"cost/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$AttributeWithValueMatching,"matches/2[org.jsoup.nodes.Element, org.jsoup.nodes.Element]",0.0,2.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$AttributeWithValueMatching,"toString/0[]",0.0,1.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$IsNthChild,"calculatePosition/2[org.jsoup.nodes.Element, org.jsoup.nodes.Element]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$IsNthChild,"getPseudoClass/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$IsOnlyOfType,"matches/2[org.jsoup.nodes.Element, org.jsoup.nodes.Element]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$IsOnlyOfType,"toString/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$IsOnlyChild,"matches/2[org.jsoup.nodes.Element, org.jsoup.nodes.Element]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$IsOnlyChild,"toString/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$TagStartsWith,"matches/2[org.jsoup.nodes.Element, org.jsoup.nodes.Element]",0.0,1.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$TagStartsWith,"toString/0[]",0.0,1.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$IsNthOfType,"calculatePosition/2[org.jsoup.nodes.Element, org.jsoup.nodes.Element]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$IsNthOfType,"getPseudoClass/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$Class,"cost/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$Class,"matches/2[org.jsoup.nodes.Element, org.jsoup.nodes.Element]",0.0,1.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$Class,"toString/0[]",0.0,1.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$Id,"cost/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$Id,"matches/2[org.jsoup.nodes.Element, org.jsoup.nodes.Element]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$Id,"toString/0[]",0.0,1.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$AttributeWithValue,"cost/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$AttributeWithValue,"matches/2[org.jsoup.nodes.Element, org.jsoup.nodes.Element]",0.0,2.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$AttributeWithValue,"toString/0[]",0.0,2.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$IsRoot,"cost/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$IsRoot,"matches/2[org.jsoup.nodes.Element, org.jsoup.nodes.Element]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$IsRoot,"toString/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$Matches,"cost/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$Matches,"matches/2[org.jsoup.nodes.Element, org.jsoup.nodes.Element]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$Matches,"toString/0[]",0.0,1.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\NodeEvaluator.java,org.jsoup.select.NodeEvaluator$InstanceType,"cost/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\NodeEvaluator.java,org.jsoup.select.NodeEvaluator$InstanceType,"evaluateMatch/1[org.jsoup.nodes.Node]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\NodeEvaluator.java,org.jsoup.select.NodeEvaluator$InstanceType,"toString/0[]",0.0,1.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$Attribute,"cost/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$Attribute,"matches/2[org.jsoup.nodes.Element, org.jsoup.nodes.Element]",0.0,1.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$Attribute,"toString/0[]",0.0,1.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"addClass/1[java.lang.String]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"after/1[java.lang.String]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"after/1[org.jsoup.nodes.Node]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"append/1[java.lang.String]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"appendChild/1[org.jsoup.nodes.Node]",1.0,0.0,0.0,1.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"appendChildren/1[java.util.Collection]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"appendElement/1[java.lang.String]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"appendElement/2[java.lang.String, java.lang.String]",1.0,0.0,0.0,1.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"appendNormalisedText/2[java.lang.StringBuilder, org.jsoup.nodes.TextNode]",1.0,1.0,0.5,1.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"appendText/1[java.lang.String]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"appendTo/1[org.jsoup.nodes.Element]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"attr/2[java.lang.String, boolean]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"attr/2[java.lang.String, java.lang.String]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"attribute/1[java.lang.String]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"attributes/0[]",0.0,3.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"baseUri/0[]",0.0,1.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"before/1[java.lang.String]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"before/1[org.jsoup.nodes.Node]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"cachedChildren/0[]",3.0,3.0,0.5,2.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"child/1[int]",2.0,0.0,0.0,2.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"childElementsList/0[]",0.0,3.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"childNodeSize/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"children/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"childrenSize/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"className/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"classNames/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"classNames/1[java.util.Set]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"clearAttributes/0[]",1.0,2.0,0.6666667,1.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"clone/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"closest/1[java.lang.String]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"closest/1[org.jsoup.select.Evaluator]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"cssSelector/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"cssSelectorComponent/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"data/0[]",3.0,0.0,0.0,3.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"dataNodes/0[]",1.0,0.0,0.0,1.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"dataset/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"doClone/1[org.jsoup.nodes.Node]",0.0,4.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"doSetBaseUri/1[java.lang.String]",0.0,1.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"elementIs/2[java.lang.String, java.lang.String]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"elementSiblingIndex/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"empty/0[]",0.0,1.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"endSourceRange/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"ensureChildNodes/0[]",0.0,4.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"expectFirst/1[java.lang.String]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"expectFirstNode/2[java.lang.String, java.lang.Class]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"filter/1[org.jsoup.select.NodeFilter]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"filterNodes/1[java.lang.Class]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"firstElementChild/0[]",1.0,0.0,0.0,1.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"firstElementSibling/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"forEach/1[java.util.function.Consumer]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"forEachNode/1[java.util.function.Consumer]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"getAllElements/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"getElementById/1[java.lang.String]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"getElementsByAttribute/1[java.lang.String]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"getElementsByAttributeStarting/1[java.lang.String]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"getElementsByAttributeValue/2[java.lang.String, java.lang.String]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"getElementsByAttributeValueContaining/2[java.lang.String, java.lang.String]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"getElementsByAttributeValueEnding/2[java.lang.String, java.lang.String]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"getElementsByAttributeValueMatching/2[java.lang.String, java.lang.String]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"getElementsByAttributeValueMatching/2[java.lang.String, java.util.regex.Pattern]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"getElementsByAttributeValueNot/2[java.lang.String, java.lang.String]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"getElementsByAttributeValueStarting/2[java.lang.String, java.lang.String]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"getElementsByClass/1[java.lang.String]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"getElementsByIndexEquals/1[int]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"getElementsByIndexGreaterThan/1[int]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"getElementsByIndexLessThan/1[int]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"getElementsByTag/1[java.lang.String]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"getElementsContainingOwnText/1[java.lang.String]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"getElementsContainingText/1[java.lang.String]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"getElementsMatchingOwnText/1[java.lang.String]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"getElementsMatchingOwnText/1[java.util.regex.Pattern]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"getElementsMatchingText/1[java.lang.String]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"getElementsMatchingText/1[java.util.regex.Pattern]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"hasAttributes/0[]",0.0,1.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"hasChildNodes/0[]",0.0,2.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"hasClass/1[java.lang.String]",1.0,1.0,0.5,1.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"hasText/0[]",4.0,0.0,0.0,2.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"hasValidChildren/0[]",1.0,0.0,0.0,1.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"html/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"html/1[T]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"html/1[java.lang.String]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"id/0[]",1.0,1.0,0.5,1.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"id/1[java.lang.String]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"indexInList/2[org.jsoup.nodes.Element, java.util.List]",1.0,0.0,0.0,1.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"insertChildren/2[int, java.util.Collection]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"insertChildren/2[int, org.jsoup.nodes.Node[]]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"invalidateChildren/0[]",1.0,0.0,0.0,1.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"is/1[java.lang.String]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"is/1[org.jsoup.select.Evaluator]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"isBlock/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"iterator/0[]",0.0,1.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"lastElementChild/0[]",1.0,0.0,0.0,1.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"lastElementSibling/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"nextElementSiblings/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"nextElementSiblings/1[boolean]",0.0,1.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"nodeName/0[]",1.0,0.0,0.0,1.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"nodeValue/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"normalName/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"outerHtmlHead/2[org.jsoup.internal.QuietAppendable, org.jsoup.nodes.Document$OutputSettings]",3.0,1.0,0.25,3.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"outerHtmlTail/2[org.jsoup.internal.QuietAppendable, org.jsoup.nodes.Document$OutputSettings]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"ownText/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"ownText/1[java.lang.StringBuilder]",1.0,0.0,0.0,1.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"parent/0[]",0.0,1.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"parents/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"prepend/1[java.lang.String]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"prependChild/1[org.jsoup.nodes.Node]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"prependChildren/1[java.util.Collection]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"prependElement/1[java.lang.String]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"prependElement/2[java.lang.String, java.lang.String]",1.0,0.0,0.0,1.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"prependText/1[java.lang.String]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"preserveWhitespace/1[org.jsoup.nodes.Node]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"previousElementSiblings/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"reindexChildren/0[]",3.0,0.0,0.0,3.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"removeAttr/1[java.lang.String]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"removeClass/1[java.lang.String]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"root/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"safeTagName/1[org.jsoup.nodes.Document$OutputSettings$Syntax]",1.0,0.0,0.0,1.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"searchUpForAttribute/2[org.jsoup.nodes.Element, java.lang.String]",1.0,1.0,0.5,1.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"select/1[java.lang.String]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"select/1[org.jsoup.select.Evaluator]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"selectFirst/1[java.lang.String]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"selectFirst/1[org.jsoup.select.Evaluator]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"selectFirstNode/2[java.lang.String, java.lang.Class]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"selectFirstNode/2[org.jsoup.select.Evaluator, java.lang.Class]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"selectNodes/1[java.lang.String]",0.0,1.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"selectNodes/2[java.lang.String, java.lang.Class]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"selectNodes/1[org.jsoup.select.Evaluator]",0.0,1.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"selectNodes/2[org.jsoup.select.Evaluator, java.lang.Class]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"selectStream/1[java.lang.String]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"selectStream/1[org.jsoup.select.Evaluator]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"selectXpath/1[java.lang.String]",0.0,1.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"selectXpath/2[java.lang.String, java.lang.Class]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"shallowClone/0[]",0.0,2.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"siblingElements/0[]",0.0,1.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"stashChildren/1[java.util.List]",0.0,2.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"stream/0[]",0.0,1.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"tag/0[]",0.0,1.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"tag/1[org.jsoup.parser.Tag]",0.0,1.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"tagName/0[]",1.0,0.0,0.0,1.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"tagName/1[java.lang.String]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"tagName/2[java.lang.String, java.lang.String]",1.0,1.0,0.5,1.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"text/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"text/1[java.lang.String]",1.0,0.0,0.0,1.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"textNodes/0[]",1.0,0.0,0.0,1.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"toggleClass/1[java.lang.String]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"traverse/1[org.jsoup.select.NodeVisitor]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"uniqueIdSelector/1[org.jsoup.nodes.Document]",1.0,1.0,0.5,1.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"val/0[]",1.0,0.0,0.0,1.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"val/1[java.lang.String]",1.0,0.0,0.0,1.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"wholeOwnText/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"wholeText/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"wholeTextOf/1[java.util.stream.Stream]",1.0,0.0,0.0,1.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element,"wrap/1[java.lang.String]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$IsEmpty,"matches/2[org.jsoup.nodes.Element, org.jsoup.nodes.Element]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$IsEmpty,"toString/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\helper\Regex.java,org.jsoup.helper.Regex$JdkMatcher,"find/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\NodeEvaluator.java,org.jsoup.select.NodeEvaluator$ContainsValue,"cost/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\NodeEvaluator.java,org.jsoup.select.NodeEvaluator$ContainsValue,"evaluateMatch/1[org.jsoup.nodes.Node]",0.0,1.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\NodeEvaluator.java,org.jsoup.select.NodeEvaluator$ContainsValue,"toString/0[]",0.0,1.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$IndexLessThan,"matches/2[org.jsoup.nodes.Element, org.jsoup.nodes.Element]",0.0,1.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$IndexLessThan,"toString/0[]",0.0,1.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$TagEndsWith,"matches/2[org.jsoup.nodes.Element, org.jsoup.nodes.Element]",0.0,1.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$TagEndsWith,"toString/0[]",0.0,1.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$ContainsWholeText,"cost/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$ContainsWholeText,"matches/2[org.jsoup.nodes.Element, org.jsoup.nodes.Element]",0.0,1.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$ContainsWholeText,"toString/0[]",0.0,1.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\NodeEvaluator.java,org.jsoup.select.NodeEvaluator$MatchesValue,"cost/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\NodeEvaluator.java,org.jsoup.select.NodeEvaluator$MatchesValue,"evaluateMatch/1[org.jsoup.nodes.Node]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\NodeEvaluator.java,org.jsoup.select.NodeEvaluator$MatchesValue,"toString/0[]",0.0,1.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$AttributeWithValueStarting,"cost/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$AttributeWithValueStarting,"matches/2[org.jsoup.nodes.Element, org.jsoup.nodes.Element]",0.0,3.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$AttributeWithValueStarting,"toString/0[]",0.0,2.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$IsNthLastChild,"calculatePosition/2[org.jsoup.nodes.Element, org.jsoup.nodes.Element]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$IsNthLastChild,"getPseudoClass/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$AllElements,"cost/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$AllElements,"matches/2[org.jsoup.nodes.Element, org.jsoup.nodes.Element]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$AllElements,"toString/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$MatchesWholeOwnText,"cost/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$MatchesWholeOwnText,"matches/2[org.jsoup.nodes.Element, org.jsoup.nodes.Element]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$MatchesWholeOwnText,"toString/0[]",0.0,1.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$IndexEquals,"matches/2[org.jsoup.nodes.Element, org.jsoup.nodes.Element]",0.0,1.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$IndexEquals,"toString/0[]",0.0,1.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$IsLastChild,"matches/2[org.jsoup.nodes.Element, org.jsoup.nodes.Element]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$IsLastChild,"toString/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator,"asNodePredicate/1[org.jsoup.nodes.Element]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator,"asPredicate/1[org.jsoup.nodes.Element]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator,"cost/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator,"matches/2[org.jsoup.nodes.Element, org.jsoup.nodes.Element]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator,"matches/2[org.jsoup.nodes.Element, org.jsoup.nodes.LeafNode]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator,"matches/2[org.jsoup.nodes.Element, org.jsoup.nodes.Node]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator,"reset/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator,"wantsNodes/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element$TextAccumulator,"head/2[org.jsoup.nodes.Node, int]",0.0,2.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\nodes\Element.java,org.jsoup.nodes.Element$TextAccumulator,"tail/2[org.jsoup.nodes.Node, int]",0.0,1.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$MatchText,"cost/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$MatchText,"matches/2[org.jsoup.nodes.Element, org.jsoup.nodes.Element]",1.0,0.0,0.0,1.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$MatchText,"toString/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$Tag,"cost/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$Tag,"matches/2[org.jsoup.nodes.Element, org.jsoup.nodes.Element]",0.0,1.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$Tag,"toString/0[]",0.0,1.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$AttributeWithValueNot,"cost/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$AttributeWithValueNot,"matches/2[org.jsoup.nodes.Element, org.jsoup.nodes.Element]",0.0,1.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$AttributeWithValueNot,"toString/0[]",0.0,2.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\Evaluator.java,org.jsoup.select.Evaluator$IsLastOfType,"toString/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\QueryParser.java,org.jsoup.select.QueryParser,"and/2[org.jsoup.select.Evaluator, org.jsoup.select.Evaluator]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\QueryParser.java,org.jsoup.select.QueryParser,"byAttribute/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\QueryParser.java,org.jsoup.select.QueryParser,"byClass/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\QueryParser.java,org.jsoup.select.QueryParser,"byId/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\QueryParser.java,org.jsoup.select.QueryParser,"byTag/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\QueryParser.java,org.jsoup.select.QueryParser,"close/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\QueryParser.java,org.jsoup.select.QueryParser,"combinator/3[org.jsoup.select.Evaluator, char, org.jsoup.select.Evaluator]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\QueryParser.java,org.jsoup.select.QueryParser,"consumeIndex/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\QueryParser.java,org.jsoup.select.QueryParser,"consumeParens/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\QueryParser.java,org.jsoup.select.QueryParser,"contains/1[boolean]",0.0,1.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\QueryParser.java,org.jsoup.select.QueryParser,"containsData/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\QueryParser.java,org.jsoup.select.QueryParser,"containsWholeText/1[boolean]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\QueryParser.java,org.jsoup.select.QueryParser,"cssNthChild/2[boolean, boolean]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\QueryParser.java,org.jsoup.select.QueryParser,"evaluatorForAttribute/1[org.jsoup.parser.TokenQueue]",0.0,2.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\QueryParser.java,org.jsoup.select.QueryParser,"has/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\QueryParser.java,org.jsoup.select.QueryParser,"is/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\QueryParser.java,org.jsoup.select.QueryParser,"matches/1[boolean]",0.0,1.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\QueryParser.java,org.jsoup.select.QueryParser,"matchesWholeText/1[boolean]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\QueryParser.java,org.jsoup.select.QueryParser,"not/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\QueryParser.java,org.jsoup.select.QueryParser,"or/2[org.jsoup.select.Evaluator, org.jsoup.select.Evaluator]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\QueryParser.java,org.jsoup.select.QueryParser,"parse/0[]",0.0,1.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\QueryParser.java,org.jsoup.select.QueryParser,"parse/1[java.lang.String]",1.0,0.0,0.0,1.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\QueryParser.java,org.jsoup.select.QueryParser,"parseNested/2[java.util.function.Function, java.lang.String]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\QueryParser.java,org.jsoup.select.QueryParser,"parseNodeSelector/0[]",6.0,3.0,0.33333334,6.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\QueryParser.java,org.jsoup.select.QueryParser,"parsePseudoSelector/0[]",0.0,1.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\QueryParser.java,org.jsoup.select.QueryParser,"parseSelector/0[]",0.0,3.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\QueryParser.java,org.jsoup.select.QueryParser,"parseSelectorGroup/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\QueryParser.java,org.jsoup.select.QueryParser,"parseSimpleSequence/0[]",0.0,1.0,1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\QueryParser.java,org.jsoup.select.QueryParser,"parseSubclass/0[]",0.0,0.0,-1.0,0.0
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\select\QueryParser.java,org.jsoup.select.QueryParser,"toString/0[]",0.0,1.0,1.0,0.0

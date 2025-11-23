@@ -1,3 +1,0 @@
-ec03d27474df95abcf36e038e1c98997f57096e0
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/HtmlTreeBuilderState.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/Token.java

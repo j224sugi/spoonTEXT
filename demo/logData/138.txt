@@ -1,4 +1,0 @@
-e99c87d3f52c848db5e891dc57c3ad6b54d55bd2
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/Jsoup.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/internal/ControllableInputStream.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/internal/SimpleBufferedInput.java

@@ -1,3 +1,0 @@
-2660750b2e6691a2d5414f3f9f878b69a49539bb
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/safety/Cleaner.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/safety/Whitelist.java

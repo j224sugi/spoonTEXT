@@ -18,13 +18,14 @@ public class Main {
 
     public static void main(String[] args) throws IOException {
         Launcher launcher = new Launcher();
-        getFiles("c:\\Users\\syuuj\\spoonTEXT\\demo\\first.txt").forEach(a -> launcher.addInputResource(a));
-        List<Path> diffFiles = getFiles("C:\\Users\\syuuj\\spoonTEXT\\demo\\logData\\20.txt").stream()
+        String projectFilesText=args[0];
+        String diffFilesText=args[1];
+
+        getFiles(projectFilesText).forEach(a -> launcher.addInputResource(a));
+        List<Path> diffFiles = getFiles(diffFilesText).stream()
                 .map(a -> Paths.get(a))
                 .filter(a -> Files.exists(a))
                 .toList();//変更ファイルを入手
-
-        System.out.println(diffFiles);
 
         launcher.getEnvironment().setCommentEnabled(false);
         launcher.getEnvironment().setAutoImports(true);
@@ -37,7 +38,7 @@ public class Main {
             }
         }
 
-        visitor.printCSV(args[0]);
+        visitor.printCSV(args[2]);
     }
 
     public static List<String> getFiles(String path) {

@@ -1,3 +1,0 @@
-5ee376bc5bbe6a4f66eb24e2180552b547b8a4bf
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Entities.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/Tokeniser.java

@@ -1,3 +1,0 @@
-444b5cea6a4c02cecfd50e5d1ecaaaa389d05781
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Node.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/Elements.java

@@ -1,2 +1,0 @@
-5fc8403e5019db62f50057366a96174ef49a1761
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/TokenQueue.java

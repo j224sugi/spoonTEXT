@@ -1,2 +1,0 @@
-57dbebc884455205ea221f942723a496d399f86a
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/NodeTraversor.java

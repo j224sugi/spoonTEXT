@@ -1,4 +1,0 @@
-7707efccded0f1cca2efc8ab961f64bc0b204cd4
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/helper/CookieUtil.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/CharacterReader.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/TokenQueue.java

@@ -1,2 +1,0 @@
-f6d9aa050e3d58b6454d4eaef00f1d061f368eb4
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/TextNode.java

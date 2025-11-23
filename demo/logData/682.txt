@@ -1,2 +1,0 @@
-e6af571528c55832a015202ac4d8db9fc424d362
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Element.java

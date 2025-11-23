@@ -1,3 +1,0 @@
-0f7e0cc373aced32629f5321c9521f81d8248647
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/helper/DataUtil.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/HtmlTreeBuilderState.java

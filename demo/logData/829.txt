@@ -1,2 +1,0 @@
-8a22a9d595d26f573d015a5348aeef34e50171d1
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/Token.java

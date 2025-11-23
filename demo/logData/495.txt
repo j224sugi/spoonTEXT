@@ -1,4 +1,0 @@
-0a5a7ef1c69319cb2fd3f70eb0c9c85e5c972d71
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Attribute.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/DataNode.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Node.java

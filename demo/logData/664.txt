@@ -1,2 +1,0 @@
-3c699bad0467bec4adc55666f0d02e312ab22a60
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/Tokeniser.java

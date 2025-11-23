@@ -1,3 +1,0 @@
-6607830962b35cbf6be8a8bd8199745dbd21b067
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Node.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/HtmlTreeBuilderState.java

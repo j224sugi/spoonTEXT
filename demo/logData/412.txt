@@ -1,6 +1,0 @@
-2cc2399728d32f7277597901d8b6fcce619c0f11
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/Jsoup.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/DataNode.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/TokenQueue.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/safety/Cleaner.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/safety/Whitelist.java

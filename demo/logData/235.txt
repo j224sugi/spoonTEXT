@@ -1,2 +1,0 @@
-bc798109ea212dc6117a31c114a0b3641d2658a5
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/safety/Cleaner.java

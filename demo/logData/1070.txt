@@ -1,4 +1,0 @@
-dd4b68223f30d8142f26a13582d0b996dece6588
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/helper/StringUtil.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/TokenQueue.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/TreeBuilderState.java

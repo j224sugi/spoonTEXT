@@ -1,4 +1,0 @@
-e02085409f0bdd7e71441fc62448192720305444
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/helper/W3CDom.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Document.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/DocumentType.java

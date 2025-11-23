@@ -1,3 +1,0 @@
-7fe868089855c33d6345e740bfdbe6f140794598
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/TreeBuilder.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/TreeBuilderState.java

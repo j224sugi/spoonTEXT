@@ -1,2 +1,0 @@
-49eb02fe329f0bf1bbc847f613c8aa147e6c5330
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/helper/DescendableLinkedList.java

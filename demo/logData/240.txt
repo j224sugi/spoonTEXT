@@ -1,3 +1,0 @@
-94af4ec25ded5c74b4a5748d59378fb955b5ecc1
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/safety/Cleaner.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/safety/Safelist.java

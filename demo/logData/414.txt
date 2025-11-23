@@ -1,3 +1,0 @@
-d0ca11a2c0f6d7efbd22db0dbd63567e0fec77cb
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/helper/W3CDom.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/safety/Whitelist.java

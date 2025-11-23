@@ -1,5 +1,0 @@
-bf40e9ca9b325fd8a49b6df20bbb2ddf644b5a1c
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/helper/HttpConnection.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/internal/Functions.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/safety/Safelist.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/StructuralEvaluator.java

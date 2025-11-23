@@ -1,5 +1,0 @@
-aa81e10c34f48a3c4ac7160aa90ee18af4f5c0c2
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Entities.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/Token.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/Tokeniser.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/TokeniserState.java

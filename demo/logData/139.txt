@@ -1,2 +1,0 @@
-95462785c89e04020c64573bc0a1aa484695cb79
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/StreamParser.java

@@ -1,2 +1,0 @@
-50df99d6acacb32da25beb39ab4683edf5a48908
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Comment.java

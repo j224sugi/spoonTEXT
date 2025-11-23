@@ -1,4 +1,0 @@
-464dc271b67881e2b7ccd98ac8df2b48479f5436
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/helper/ChangeNotifyingArrayList.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Element.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Node.java

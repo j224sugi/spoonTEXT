@@ -1,3 +1,0 @@
-9008cbf66ca4a89d02ba26630fb818524e790974
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/ng/AndSelector.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/ng/parser/Parser.java

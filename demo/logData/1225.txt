@@ -1,4 +1,0 @@
-09d99e7e5edc96348b9fa50131274aed3ee1bd2e
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Entities.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Node.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/TextNode.java

@@ -1,2 +1,0 @@
-b482e0081bf51e4d6f94393fef4d1dc743fe41dd
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/TreeBuilder.java

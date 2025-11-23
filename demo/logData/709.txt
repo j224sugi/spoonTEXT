@@ -1,4 +1,0 @@
-a63fcab33707b7b466fbbf4ce4e7e63d787ba23e
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/Connection.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/helper/HttpConnection.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/internal/ConstrainableInputStream.java

@@ -1,4 +1,0 @@
-10ef9816fb7cf1085de53aa5882e93192743f01d
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Comment.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/Evaluator.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/StructuralEvaluator.java

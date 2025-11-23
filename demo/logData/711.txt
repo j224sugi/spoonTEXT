@@ -1,3 +1,0 @@
-bd789b079038c1b3f41d05f869c244b54840dbca
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/helper/StringUtil.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Entities.java

@@ -1,2 +1,0 @@
-17486e2fa5b542b1f68b9b60efbefecd216a4a48
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/Entities.java

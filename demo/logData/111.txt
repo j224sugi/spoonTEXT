@@ -1,3 +1,0 @@
-61923e0455c46cc6320188b13c613302f01e7880
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/internal/Normalizer.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Element.java

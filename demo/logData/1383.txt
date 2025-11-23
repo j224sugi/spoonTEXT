@@ -1,5 +1,0 @@
-b04c5412eb75a7a35925896db7121c3a2c67e1c4
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Comment.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Element.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Node.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/TextNode.java

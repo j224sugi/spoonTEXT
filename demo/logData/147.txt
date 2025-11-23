@@ -1,3 +1,0 @@
-442ec7561a292a78d8f065fb0b87edf78f1c166b
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/helper/W3CDom.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/internal/SoftPool.java

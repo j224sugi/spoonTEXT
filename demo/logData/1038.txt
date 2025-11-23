@@ -1,2 +1,0 @@
-231aab61e228513853d08374e188217933f70986
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/CharacterReader.java

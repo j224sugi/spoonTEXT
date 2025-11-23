@@ -1,3 +1,0 @@
-6c7679ce2f00a517717962fc896d80ff5b50d4be
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/NodeFilter.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/NodeVisitor.java

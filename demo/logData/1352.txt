@@ -1,2 +1,0 @@
-ef7488975ee41c8743e4615677555e5af2046567
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/Tag.java

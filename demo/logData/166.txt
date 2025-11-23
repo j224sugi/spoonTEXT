@@ -1,3 +1,0 @@
-8dec9c302e2f2d2b5560fefa0d3ed7e1b813e195
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/helper/CookieUtil.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/helper/HttpConnection.java

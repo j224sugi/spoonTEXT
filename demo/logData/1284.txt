@@ -1,2 +1,0 @@
-14db439cfb817b8869bcd6f603960040059d9643
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/safety/Whitelist.java

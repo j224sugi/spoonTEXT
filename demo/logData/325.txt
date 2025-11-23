@@ -1,2 +1,0 @@
-b5de45fee2354f06829292fae8bb24822017d848
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/safety/Safelist.java

@@ -1,3 +1,0 @@
-528d85f3a99bf3a064eb8582af0643e1cc65f206
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Entities.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/XmlTreeBuilder.java

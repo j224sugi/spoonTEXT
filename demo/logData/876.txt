@@ -1,3 +1,0 @@
-05faab380c9b3322f24fcba833173a358765f89f
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/TextNode.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/parser/Tokeniser.java

@@ -1,4 +1,0 @@
-b25f8506cc212c33c0779864448a2e870dc93f34
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/ng/PrevSiblingSelector.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/ng/PreviousSequentSiblingSelector.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/ng/SequentSiblingSelector.java

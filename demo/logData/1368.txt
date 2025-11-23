@@ -1,7 +1,0 @@
-1f3cfcfb08a5e7454e61513389b814c7da6072ac
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Attribute.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Attributes.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Element.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/nodes/Node.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/ElementList.java
-C:/Users/syuuj/jsoup/src/main/java/org/jsoup/select/Selector.java
